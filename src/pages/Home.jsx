@@ -5,7 +5,6 @@ import { Button, Container } from "react-bootstrap";
 const Home = () => {
   const [nodes, setNodes] = useState([]);
   const [links, setLinks] = useState([]);
-  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     const startSimulation = (nodes, links) => {
@@ -54,12 +53,22 @@ const Home = () => {
         const nodes = Array();
         const links = Array();
         const r = 45;
+        const nodeValueMin = data.nodes.reduce((a, b) =>
+          a.value < b.value ? a : b
+        ).value; // valueの最小値取得
+        const nodeValueMax = data.nodes.reduce((a, b) =>
+          a.value > b.value ? a : b
+        ).value; // valueの最大値取得
 
         for (const item of data.nodes) {
+          const group = Math.floor(
+            (11 * (item.value - nodeValueMin)) / (nodeValueMax - nodeValueMin)
+          );
           nodes.push({
             id: item.id,
             label: item.label,
             r,
+            group,
           });
         }
         for (const item of data.links) {
@@ -72,7 +81,7 @@ const Home = () => {
         return [nodes, links];
       })();
       startSimulation(nodes, links);
-      setLoading(false);
+      console.log(nodes);
     };
     startLineChart();
   }, []);
@@ -86,11 +95,8 @@ const Home = () => {
   const contentHeight = 2000;
   const svgWidth = margin.left + margin.right + contentWidth;
   const svgHeight = margin.bottom + margin.top + contentHeight;
-  // const colorScale = d3.scaleOrdinal().range(d3.schemeCategory10); // group振ったら設定
+  const colorScale = d3.scaleOrdinal().range(d3.schemePaired); // group振ったら設定
 
-  if (loading) {
-    return <div></div>;
-  }
   return (
     <Container>
       <svg
@@ -120,7 +126,7 @@ const Home = () => {
                 <circle
                   r={node.r}
                   stroke="black"
-                  style={{ fill: "rgb(128, 255, 191)" }}
+                  fill={colorScale(node.group)}
                   cx={node.x}
                   cy={node.y}
                 ></circle>
