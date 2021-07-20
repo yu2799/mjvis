@@ -2,1775 +2,2610 @@
   "nodes": [
     {
       "id": 0,
-      "label": "ツモ"
+      "label": "ツモ",
+      "value": 15212
     },
     {
       "id": 1,
-      "label": "リーチ"
+      "label": "リーチ",
+      "value": 25415
     },
     {
       "id": 2,
-      "label": "一発"
+      "label": "一発",
+      "value": 4753
     },
     {
       "id": 3,
-      "label": "槍槓"
+      "label": "槍槓",
+      "value": 6
     },
     {
       "id": 4,
-      "label": "嶺上開花"
+      "label": "嶺上開花",
+      "value": 157
     },
     {
       "id": 5,
-      "label": "海底撈月"
+      "label": "海底撈月",
+      "value": 286
     },
     {
       "id": 6,
-      "label": "河底撈魚"
+      "label": "河底撈魚",
+      "value": 277
     },
     {
       "id": 7,
-      "label": "平和"
+      "label": "平和",
+      "value": 12683
     },
     {
       "id": 8,
-      "label": "タンヤオ"
+      "label": "タンヤオ",
+      "value": 14010
     },
     {
       "id": 9,
-      "label": "一盃口"
+      "label": "一盃口",
+      "value": 2380
     },
     {
       "id": 10,
-      "label": "自風東"
+      "label": "自風東",
+      "value": 1489
     },
     {
       "id": 11,
-      "label": "自風南"
+      "label": "自風南",
+      "value": 1335
     },
     {
       "id": 12,
-      "label": "自風西"
+      "label": "自風西",
+      "value": 1182
     },
     {
       "id": 13,
-      "label": "自風北"
+      "label": "自風北",
+      "value": 1064
     },
     {
       "id": 14,
-      "label": "場風東"
+      "label": "場風東",
+      "value": 2765
     },
     {
       "id": 15,
-      "label": "場風南"
+      "label": "場風南",
+      "value": 2018
     },
     {
       "id": 16,
-      "label": "場風西"
-    },
-    {
-      "id": 17,
-      "label": "場風北"
+      "label": "場風西",
+      "value": 31
     },
     {
       "id": 18,
-      "label": "白"
+      "label": "白",
+      "value": 4819
     },
     {
       "id": 19,
-      "label": "發"
+      "label": "發",
+      "value": 4701
     },
     {
       "id": 20,
-      "label": "中"
+      "label": "中",
+      "value": 4797
     },
     {
       "id": 21,
-      "label": "ダブリー"
+      "label": "ダブリー",
+      "value": 129
     },
     {
       "id": 22,
-      "label": "七対子"
+      "label": "七対子",
+      "value": 1712
     },
     {
       "id": 23,
-      "label": "チャンタ"
+      "label": "チャンタ",
+      "value": 90
     },
     {
       "id": 24,
-      "label": "一気通貫"
+      "label": "一気通貫",
+      "value": 510
     },
     {
       "id": 25,
-      "label": "三色同順"
+      "label": "三色同順",
+      "value": 1217
     },
     {
       "id": 26,
-      "label": "三色同刻"
+      "label": "三色同刻",
+      "value": 21
     },
     {
       "id": 27,
-      "label": "三槓子"
+      "label": "三槓子",
+      "value": 1
     },
     {
       "id": 28,
-      "label": "対々和"
+      "label": "対々和",
+      "value": 1015
     },
     {
       "id": 29,
-      "label": "三暗刻"
+      "label": "三暗刻",
+      "value": 404
     },
     {
       "id": 30,
-      "label": "小三元"
+      "label": "小三元",
+      "value": 40
     },
     {
       "id": 31,
-      "label": "混老頭"
+      "label": "混老頭",
+      "value": 12
     },
     {
       "id": 32,
-      "label": "二盃口"
+      "label": "二盃口",
+      "value": 27
     },
     {
       "id": 33,
-      "label": "純チャン"
+      "label": "純チャン",
+      "value": 56
     },
     {
       "id": 34,
-      "label": "ホンイツ"
+      "label": "ホンイツ",
+      "value": 231
     },
     {
       "id": 35,
-      "label": "チンイツ"
+      "label": "チンイツ",
+      "value": 41
     },
     {
       "id": 36,
-      "label": "(喰)チンイツ"
-    },
-    {
-      "id": 37,
-      "label": "天和"
+      "label": "(喰)チンイツ",
+      "value": 283
     },
     {
       "id": 38,
-      "label": "地和"
+      "label": "地和",
+      "value": 1
     },
     {
       "id": 39,
-      "label": "大三元"
+      "label": "大三元",
+      "value": 15
     },
     {
       "id": 40,
-      "label": "四暗刻"
+      "label": "四暗刻",
+      "value": 23
     },
     {
       "id": 41,
-      "label": "四暗刻単騎"
+      "label": "四暗刻単騎",
+      "value": 2
     },
     {
       "id": 42,
-      "label": "字一色"
-    },
-    {
-      "id": 43,
-      "label": "緑一色"
-    },
-    {
-      "id": 44,
-      "label": "清老頭"
+      "label": "字一色",
+      "value": 2
     },
     {
       "id": 45,
-      "label": "九蓮宝燈"
-    },
-    {
-      "id": 46,
-      "label": "純正九蓮宝燈"
+      "label": "九蓮宝燈",
+      "value": 1
     },
     {
       "id": 47,
-      "label": "国士無双"
+      "label": "国士無双",
+      "value": 14
     },
     {
       "id": 48,
-      "label": "国士無双13面"
-    },
-    {
-      "id": 49,
-      "label": "大四喜"
+      "label": "国士無双13面",
+      "value": 1
     },
     {
       "id": 50,
-      "label": "小四喜"
-    },
-    {
-      "id": 51,
-      "label": "四槓子"
+      "label": "小四喜",
+      "value": 6
     },
     {
       "id": 52,
-      "label": "ドラ"
+      "label": "ドラ",
+      "value": 23811
     },
     {
       "id": 53,
-      "label": "裏ドラ"
+      "label": "裏ドラ",
+      "value": 25544
     },
     {
       "id": 54,
-      "label": "赤ドラ"
+      "label": "赤ドラ",
+      "value": 26897
     },
     {
       "id": 55,
-      "label": "(喰)チャンタ"
+      "label": "(喰)チャンタ",
+      "value": 424
     },
     {
       "id": 56,
-      "label": "(喰)イッツー"
+      "label": "(喰)イッツー",
+      "value": 393
     },
     {
       "id": 57,
-      "label": "(喰)三色"
+      "label": "(喰)三色",
+      "value": 1174
     },
     {
       "id": 58,
-      "label": "(喰)純チャン"
+      "label": "(喰)純チャン",
+      "value": 108
     },
     {
       "id": 59,
-      "label": "(喰)ホンイツ"
+      "label": "(喰)ホンイツ",
+      "value": 2542
     }
   ],
   "links": [
     {
-      "source": "一発",
-      "target": "海底撈月",
-      "value": 1
+      "source": 0,
+      "target": 1,
+      "value": 12433
     },
     {
-      "source": "一発",
-      "target": "平和",
-      "value": 1732
+      "source": 0,
+      "target": 2,
+      "value": 2327
     },
     {
-      "source": "一発",
-      "target": "タンヤオ",
-      "value": 716
+      "source": 0,
+      "target": 4,
+      "value": 63
     },
     {
-      "source": "一発",
-      "target": "一盃口",
-      "value": 232
-    },
-    {
-      "source": "一発",
-      "target": "自風東",
-      "value": 25
-    },
-    {
-      "source": "一発",
-      "target": "自風南",
-      "value": 26
-    },
-    {
-      "source": "一発",
-      "target": "自風西",
-      "value": 14
-    },
-    {
-      "source": "一発",
-      "target": "自風北",
-      "value": 9
-    },
-    {
-      "source": "一発",
-      "target": "場風東",
-      "value": 61
-    },
-    {
-      "source": "一発",
-      "target": "場風南",
-      "value": 23
-    },
-    {
-      "source": "一発",
-      "target": "場風西",
-      "value": 2
-    },
-    {
-      "source": "一発",
-      "target": "白",
-      "value": 82
-    },
-    {
-      "source": "一発",
-      "target": "發",
-      "value": 66
-    },
-    {
-      "source": "一発",
-      "target": "中",
-      "value": 85
-    },
-    {
-      "source": "一発",
-      "target": "七対子",
-      "value": 186
-    },
-    {
-      "source": "一発",
-      "target": "チャンタ",
-      "value": 14
-    },
-    {
-      "source": "一発",
-      "target": "一気通貫",
-      "value": 39
-    },
-    {
-      "source": "一発",
-      "target": "三色同順",
-      "value": 136
-    },
-    {
-      "source": "一発",
-      "target": "対々和",
-      "value": 2
-    },
-    {
-      "source": "一発",
-      "target": "三暗刻",
-      "value": 29
-    },
-    {
-      "source": "一発",
-      "target": "二盃口",
-      "value": 6
-    },
-    {
-      "source": "一発",
-      "target": "純チャン",
-      "value": 6
-    },
-    {
-      "source": "一発",
-      "target": "ホンイツ",
-      "value": 19
-    },
-    {
-      "source": "一発",
-      "target": "ドラ",
-      "value": 1823
-    },
-    {
-      "source": "一発",
-      "target": "裏ドラ",
-      "value": 4753
-    },
-    {
-      "source": "一発",
-      "target": "赤ドラ",
-      "value": 2001
-    },
-    {
-      "source": "嶺上開花",
-      "target": "タンヤオ",
-      "value": 8
-    },
-    {
-      "source": "嶺上開花",
-      "target": "一盃口",
-      "value": 4
-    },
-    {
-      "source": "嶺上開花",
-      "target": "自風東",
-      "value": 1
-    },
-    {
-      "source": "嶺上開花",
-      "target": "場風東",
-      "value": 1
-    },
-    {
-      "source": "嶺上開花",
-      "target": "白",
-      "value": 1
-    },
-    {
-      "source": "嶺上開花",
-      "target": "發",
-      "value": 3
-    },
-    {
-      "source": "嶺上開花",
-      "target": "中",
-      "value": 2
-    },
-    {
-      "source": "嶺上開花",
-      "target": "三暗刻",
-      "value": 1
-    },
-    {
-      "source": "嶺上開花",
-      "target": "ドラ",
-      "value": 18
-    },
-    {
-      "source": "嶺上開花",
-      "target": "裏ドラ",
-      "value": 51
-    },
-    {
-      "source": "嶺上開花",
-      "target": "赤ドラ",
-      "value": 19
-    },
-    {
-      "source": "海底撈月",
-      "target": "平和",
-      "value": 46
-    },
-    {
-      "source": "海底撈月",
-      "target": "タンヤオ",
-      "value": 18
-    },
-    {
-      "source": "海底撈月",
-      "target": "一盃口",
-      "value": 8
-    },
-    {
-      "source": "海底撈月",
-      "target": "自風南",
-      "value": 1
-    },
-    {
-      "source": "海底撈月",
-      "target": "場風南",
-      "value": 1
-    },
-    {
-      "source": "海底撈月",
-      "target": "白",
-      "value": 1
-    },
-    {
-      "source": "海底撈月",
-      "target": "發",
-      "value": 1
-    },
-    {
-      "source": "海底撈月",
-      "target": "中",
-      "value": 1
-    },
-    {
-      "source": "海底撈月",
-      "target": "チャンタ",
-      "value": 1
-    },
-    {
-      "source": "海底撈月",
-      "target": "一気通貫",
-      "value": 3
-    },
-    {
-      "source": "海底撈月",
-      "target": "三色同順",
-      "value": 1
-    },
-    {
-      "source": "海底撈月",
-      "target": "三暗刻",
-      "value": 1
-    },
-    {
-      "source": "海底撈月",
-      "target": "ホンイツ",
-      "value": 1
-    },
-    {
-      "source": "海底撈月",
-      "target": "ドラ",
-      "value": 58
-    },
-    {
-      "source": "海底撈月",
-      "target": "裏ドラ",
-      "value": 114
-    },
-    {
-      "source": "海底撈月",
-      "target": "赤ドラ",
-      "value": 42
-    },
-    {
-      "source": "河底撈魚",
-      "target": "平和",
-      "value": 35
-    },
-    {
-      "source": "河底撈魚",
-      "target": "タンヤオ",
-      "value": 8
-    },
-    {
-      "source": "河底撈魚",
-      "target": "一盃口",
-      "value": 2
-    },
-    {
-      "source": "河底撈魚",
-      "target": "自風南",
-      "value": 1
-    },
-    {
-      "source": "河底撈魚",
-      "target": "場風東",
-      "value": 1
-    },
-    {
-      "source": "河底撈魚",
-      "target": "白",
-      "value": 1
-    },
-    {
-      "source": "河底撈魚",
-      "target": "中",
-      "value": 1
-    },
-    {
-      "source": "河底撈魚",
-      "target": "七対子",
-      "value": 2
-    },
-    {
-      "source": "河底撈魚",
-      "target": "一気通貫",
-      "value": 2
-    },
-    {
-      "source": "河底撈魚",
-      "target": "三色同順",
-      "value": 2
-    },
-    {
-      "source": "河底撈魚",
-      "target": "ドラ",
-      "value": 50
-    },
-    {
-      "source": "河底撈魚",
-      "target": "裏ドラ",
-      "value": 94
-    },
-    {
-      "source": "河底撈魚",
-      "target": "赤ドラ",
-      "value": 42
-    },
-    {
-      "source": "平和",
-      "target": "タンヤオ",
-      "value": 1918
-    },
-    {
-      "source": "平和",
-      "target": "一盃口",
-      "value": 754
-    },
-    {
-      "source": "平和",
-      "target": "チャンタ",
-      "value": 4
-    },
-    {
-      "source": "平和",
-      "target": "一気通貫",
-      "value": 157
-    },
-    {
-      "source": "平和",
-      "target": "三色同順",
-      "value": 386
-    },
-    {
-      "source": "平和",
-      "target": "二盃口",
-      "value": 11
-    },
-    {
-      "source": "平和",
-      "target": "純チャン",
-      "value": 2
-    },
-    {
-      "source": "平和",
-      "target": "ホンイツ",
-      "value": 1
-    },
-    {
-      "source": "平和",
-      "target": "チンイツ",
-      "value": 1
-    },
-    {
-      "source": "平和",
-      "target": "ドラ",
-      "value": 3606
-    },
-    {
-      "source": "平和",
-      "target": "裏ドラ",
-      "value": 8946
-    },
-    {
-      "source": "平和",
-      "target": "赤ドラ",
-      "value": 4470
-    },
-    {
-      "source": "タンヤオ",
-      "target": "一盃口",
-      "value": 520
-    },
-    {
-      "source": "タンヤオ",
-      "target": "七対子",
-      "value": 86
-    },
-    {
-      "source": "タンヤオ",
-      "target": "三色同順",
-      "value": 266
-    },
-    {
-      "source": "タンヤオ",
-      "target": "三色同刻",
-      "value": 2
-    },
-    {
-      "source": "タンヤオ",
-      "target": "対々和",
-      "value": 26
-    },
-    {
-      "source": "タンヤオ",
-      "target": "三暗刻",
-      "value": 33
-    },
-    {
-      "source": "タンヤオ",
-      "target": "二盃口",
-      "value": 13
-    },
-    {
-      "source": "タンヤオ",
-      "target": "ドラ",
-      "value": 1913
-    },
-    {
-      "source": "タンヤオ",
-      "target": "裏ドラ",
-      "value": 3531
-    },
-    {
-      "source": "タンヤオ",
-      "target": "赤ドラ",
-      "value": 3002
-    },
-    {
-      "source": "タンヤオ",
-      "target": "(喰)三色",
-      "value": 2
-    },
-    {
-      "source": "一盃口",
-      "target": "自風東",
-      "value": 1
-    },
-    {
-      "source": "一盃口",
-      "target": "自風南",
-      "value": 6
-    },
-    {
-      "source": "一盃口",
-      "target": "自風西",
-      "value": 1
-    },
-    {
-      "source": "一盃口",
-      "target": "自風北",
-      "value": 2
-    },
-    {
-      "source": "一盃口",
-      "target": "場風東",
-      "value": 8
-    },
-    {
-      "source": "一盃口",
-      "target": "場風南",
-      "value": 9
-    },
-    {
-      "source": "一盃口",
-      "target": "白",
-      "value": 9
-    },
-    {
-      "source": "一盃口",
-      "target": "發",
-      "value": 8
-    },
-    {
-      "source": "一盃口",
-      "target": "中",
-      "value": 14
-    },
-    {
-      "source": "一盃口",
-      "target": "チャンタ",
-      "value": 7
-    },
-    {
-      "source": "一盃口",
-      "target": "一気通貫",
-      "value": 4
-    },
-    {
-      "source": "一盃口",
-      "target": "三色同順",
-      "value": 26
-    },
-    {
-      "source": "一盃口",
-      "target": "純チャン",
-      "value": 7
-    },
-    {
-      "source": "一盃口",
-      "target": "ホンイツ",
-      "value": 17
-    },
-    {
-      "source": "一盃口",
-      "target": "チンイツ",
-      "value": 6
-    },
-    {
-      "source": "一盃口",
-      "target": "ドラ",
-      "value": 571
-    },
-    {
-      "source": "一盃口",
-      "target": "裏ドラ",
-      "value": 1323
-    },
-    {
-      "source": "一盃口",
-      "target": "赤ドラ",
-      "value": 843
-    },
-    {
-      "source": "自風東",
-      "target": "場風東",
+      "source": 0,
+      "target": 5,
       "value": 154
     },
     {
-      "source": "自風東",
-      "target": "場風南",
-      "value": 1
+      "source": 0,
+      "target": 7,
+      "value": 5695
     },
     {
-      "source": "自風東",
-      "target": "白",
-      "value": 31
+      "source": 0,
+      "target": 8,
+      "value": 2634
     },
     {
-      "source": "自風東",
-      "target": "發",
-      "value": 23
+      "source": 0,
+      "target": 9,
+      "value": 940
     },
     {
-      "source": "自風東",
-      "target": "中",
-      "value": 28
+      "source": 0,
+      "target": 10,
+      "value": 65
     },
     {
-      "source": "自風東",
-      "target": "チャンタ",
-      "value": 2
+      "source": 0,
+      "target": 11,
+      "value": 78
     },
     {
-      "source": "自風東",
-      "target": "一気通貫",
-      "value": 2
+      "source": 0,
+      "target": 12,
+      "value": 58
     },
     {
-      "source": "自風東",
-      "target": "対々和",
-      "value": 4
+      "source": 0,
+      "target": 13,
+      "value": 43
     },
     {
-      "source": "自風東",
-      "target": "三暗刻",
-      "value": 6
-    },
-    {
-      "source": "自風東",
-      "target": "ホンイツ",
-      "value": 4
-    },
-    {
-      "source": "自風東",
-      "target": "ドラ",
-      "value": 377
-    },
-    {
-      "source": "自風東",
-      "target": "裏ドラ",
-      "value": 108
-    },
-    {
-      "source": "自風東",
-      "target": "赤ドラ",
-      "value": 354
-    },
-    {
-      "source": "自風東",
-      "target": "(喰)チャンタ",
-      "value": 9
-    },
-    {
-      "source": "自風東",
-      "target": "(喰)ホンイツ",
-      "value": 100
-    },
-    {
-      "source": "自風南",
-      "target": "場風東",
-      "value": 7
-    },
-    {
-      "source": "自風南",
-      "target": "場風南",
+      "source": 0,
+      "target": 14,
       "value": 114
     },
     {
-      "source": "自風南",
-      "target": "白",
-      "value": 24
+      "source": 0,
+      "target": 15,
+      "value": 87
     },
     {
-      "source": "自風南",
-      "target": "發",
-      "value": 16
-    },
-    {
-      "source": "自風南",
-      "target": "中",
-      "value": 18
-    },
-    {
-      "source": "自風南",
-      "target": "チャンタ",
-      "value": 2
-    },
-    {
-      "source": "自風南",
-      "target": "一気通貫",
+      "source": 0,
+      "target": 16,
       "value": 1
     },
     {
-      "source": "自風南",
-      "target": "三色同順",
-      "value": 1
+      "source": 0,
+      "target": 18,
+      "value": 214
     },
     {
-      "source": "自風南",
-      "target": "対々和",
-      "value": 4
+      "source": 0,
+      "target": 19,
+      "value": 216
     },
     {
-      "source": "自風南",
-      "target": "三暗刻",
-      "value": 3
+      "source": 0,
+      "target": 20,
+      "value": 225
     },
     {
-      "source": "自風南",
-      "target": "混老頭",
-      "value": 1
+      "source": 0,
+      "target": 21,
+      "value": 52
     },
     {
-      "source": "自風南",
-      "target": "ホンイツ",
-      "value": 6
+      "source": 0,
+      "target": 22,
+      "value": 533
     },
     {
-      "source": "自風南",
-      "target": "ドラ",
-      "value": 256
-    },
-    {
-      "source": "自風南",
-      "target": "裏ドラ",
-      "value": 112
-    },
-    {
-      "source": "自風南",
-      "target": "赤ドラ",
-      "value": 289
-    },
-    {
-      "source": "自風南",
-      "target": "(喰)チャンタ",
-      "value": 10
-    },
-    {
-      "source": "自風南",
-      "target": "(喰)ホンイツ",
-      "value": 72
-    },
-    {
-      "source": "自風西",
-      "target": "場風東",
-      "value": 3
-    },
-    {
-      "source": "自風西",
-      "target": "場風南",
-      "value": 1
-    },
-    {
-      "source": "自風西",
-      "target": "場風西",
-      "value": 3
-    },
-    {
-      "source": "自風西",
-      "target": "白",
-      "value": 6
-    },
-    {
-      "source": "自風西",
-      "target": "發",
-      "value": 8
-    },
-    {
-      "source": "自風西",
-      "target": "中",
-      "value": 12
-    },
-    {
-      "source": "自風西",
-      "target": "チャンタ",
-      "value": 1
-    },
-    {
-      "source": "自風西",
-      "target": "一気通貫",
-      "value": 1
-    },
-    {
-      "source": "自風西",
-      "target": "対々和",
-      "value": 3
-    },
-    {
-      "source": "自風西",
-      "target": "三暗刻",
-      "value": 4
-    },
-    {
-      "source": "自風西",
-      "target": "混老頭",
-      "value": 3
-    },
-    {
-      "source": "自風西",
-      "target": "ホンイツ",
-      "value": 5
-    },
-    {
-      "source": "自風西",
-      "target": "ドラ",
-      "value": 83
-    },
-    {
-      "source": "自風西",
-      "target": "裏ドラ",
-      "value": 96
-    },
-    {
-      "source": "自風西",
-      "target": "赤ドラ",
-      "value": 70
-    },
-    {
-      "source": "自風西",
-      "target": "(喰)チャンタ",
-      "value": 1
-    },
-    {
-      "source": "自風西",
-      "target": "(喰)ホンイツ",
-      "value": 31
-    },
-    {
-      "source": "自風北",
-      "target": "場風南",
-      "value": 4
-    },
-    {
-      "source": "自風北",
-      "target": "白",
-      "value": 12
-    },
-    {
-      "source": "自風北",
-      "target": "發",
-      "value": 3
-    },
-    {
-      "source": "自風北",
-      "target": "中",
-      "value": 11
-    },
-    {
-      "source": "自風北",
-      "target": "チャンタ",
-      "value": 2
-    },
-    {
-      "source": "自風北",
-      "target": "対々和",
-      "value": 10
-    },
-    {
-      "source": "自風北",
-      "target": "三暗刻",
-      "value": 5
-    },
-    {
-      "source": "自風北",
-      "target": "ホンイツ",
-      "value": 4
-    },
-    {
-      "source": "自風北",
-      "target": "ドラ",
-      "value": 76
-    },
-    {
-      "source": "自風北",
-      "target": "裏ドラ",
-      "value": 66
-    },
-    {
-      "source": "自風北",
-      "target": "赤ドラ",
-      "value": 56
-    },
-    {
-      "source": "自風北",
-      "target": "(喰)チャンタ",
-      "value": 5
-    },
-    {
-      "source": "自風北",
-      "target": "(喰)ホンイツ",
-      "value": 37
-    },
-    {
-      "source": "場風東",
-      "target": "白",
-      "value": 17
-    },
-    {
-      "source": "場風東",
-      "target": "發",
-      "value": 22
-    },
-    {
-      "source": "場風東",
-      "target": "中",
-      "value": 19
-    },
-    {
-      "source": "場風東",
-      "target": "チャンタ",
-      "value": 2
-    },
-    {
-      "source": "場風東",
-      "target": "対々和",
-      "value": 10
-    },
-    {
-      "source": "場風東",
-      "target": "三暗刻",
-      "value": 9
-    },
-    {
-      "source": "場風東",
-      "target": "混老頭",
-      "value": 1
-    },
-    {
-      "source": "場風東",
-      "target": "ホンイツ",
-      "value": 11
-    },
-    {
-      "source": "場風東",
-      "target": "ドラ",
-      "value": 152
-    },
-    {
-      "source": "場風東",
-      "target": "裏ドラ",
-      "value": 230
-    },
-    {
-      "source": "場風東",
-      "target": "赤ドラ",
-      "value": 165
-    },
-    {
-      "source": "場風東",
-      "target": "(喰)チャンタ",
-      "value": 8
-    },
-    {
-      "source": "場風東",
-      "target": "(喰)ホンイツ",
-      "value": 91
-    },
-    {
-      "source": "場風南",
-      "target": "白",
-      "value": 16
-    },
-    {
-      "source": "場風南",
-      "target": "發",
-      "value": 9
-    },
-    {
-      "source": "場風南",
-      "target": "中",
-      "value": 19
-    },
-    {
-      "source": "場風南",
-      "target": "チャンタ",
-      "value": 3
-    },
-    {
-      "source": "場風南",
-      "target": "一気通貫",
-      "value": 3
-    },
-    {
-      "source": "場風南",
-      "target": "三色同順",
-      "value": 1
-    },
-    {
-      "source": "場風南",
-      "target": "対々和",
-      "value": 11
-    },
-    {
-      "source": "場風南",
-      "target": "三暗刻",
-      "value": 6
-    },
-    {
-      "source": "場風南",
-      "target": "混老頭",
-      "value": 2
-    },
-    {
-      "source": "場風南",
-      "target": "ホンイツ",
-      "value": 9
-    },
-    {
-      "source": "場風南",
-      "target": "ドラ",
-      "value": 123
-    },
-    {
-      "source": "場風南",
-      "target": "裏ドラ",
-      "value": 130
-    },
-    {
-      "source": "場風南",
-      "target": "赤ドラ",
-      "value": 125
-    },
-    {
-      "source": "場風南",
-      "target": "(喰)チャンタ",
-      "value": 10
-    },
-    {
-      "source": "場風南",
-      "target": "(喰)ホンイツ",
-      "value": 71
-    },
-    {
-      "source": "場風西",
-      "target": "裏ドラ",
-      "value": 2
-    },
-    {
-      "source": "場風西",
-      "target": "赤ドラ",
-      "value": 1
-    },
-    {
-      "source": "白",
-      "target": "發",
-      "value": 40
-    },
-    {
-      "source": "白",
-      "target": "中",
-      "value": 53
-    },
-    {
-      "source": "白",
-      "target": "チャンタ",
-      "value": 6
-    },
-    {
-      "source": "白",
-      "target": "三色同順",
-      "value": 6
-    },
-    {
-      "source": "白",
-      "target": "対々和",
-      "value": 15
-    },
-    {
-      "source": "白",
-      "target": "三暗刻",
-      "value": 17
-    },
-    {
-      "source": "白",
-      "target": "小三元",
-      "value": 1
-    },
-    {
-      "source": "白",
-      "target": "混老頭",
-      "value": 1
-    },
-    {
-      "source": "白",
-      "target": "ホンイツ",
-      "value": 19
-    },
-    {
-      "source": "白",
-      "target": "ドラ",
-      "value": 365
-    },
-    {
-      "source": "白",
-      "target": "裏ドラ",
-      "value": 400
-    },
-    {
-      "source": "白",
-      "target": "赤ドラ",
-      "value": 312
-    },
-    {
-      "source": "白",
-      "target": "(喰)チャンタ",
-      "value": 16
-    },
-    {
-      "source": "白",
-      "target": "(喰)イッツー",
-      "value": 1
-    },
-    {
-      "source": "白",
-      "target": "(喰)ホンイツ",
-      "value": 192
-    },
-    {
-      "source": "發",
-      "target": "中",
-      "value": 40
-    },
-    {
-      "source": "發",
-      "target": "チャンタ",
-      "value": 4
-    },
-    {
-      "source": "發",
-      "target": "対々和",
-      "value": 15
-    },
-    {
-      "source": "發",
-      "target": "三暗刻",
-      "value": 9
-    },
-    {
-      "source": "發",
-      "target": "混老頭",
-      "value": 5
-    },
-    {
-      "source": "發",
-      "target": "ホンイツ",
-      "value": 20
-    },
-    {
-      "source": "發",
-      "target": "ドラ",
-      "value": 312
-    },
-    {
-      "source": "發",
-      "target": "裏ドラ",
-      "value": 373
-    },
-    {
-      "source": "發",
-      "target": "赤ドラ",
-      "value": 356
-    },
-    {
-      "source": "發",
-      "target": "(喰)チャンタ",
-      "value": 16
-    },
-    {
-      "source": "發",
-      "target": "(喰)三色",
-      "value": 1
-    },
-    {
-      "source": "發",
-      "target": "(喰)ホンイツ",
-      "value": 166
-    },
-    {
-      "source": "中",
-      "target": "チャンタ",
-      "value": 4
-    },
-    {
-      "source": "中",
-      "target": "一気通貫",
-      "value": 1
-    },
-    {
-      "source": "中",
-      "target": "三色同順",
-      "value": 1
-    },
-    {
-      "source": "中",
-      "target": "三色同刻",
-      "value": 1
-    },
-    {
-      "source": "中",
-      "target": "対々和",
-      "value": 25
-    },
-    {
-      "source": "中",
-      "target": "三暗刻",
-      "value": 19
-    },
-    {
-      "source": "中",
-      "target": "小三元",
-      "value": 1
-    },
-    {
-      "source": "中",
-      "target": "混老頭",
-      "value": 9
-    },
-    {
-      "source": "中",
-      "target": "ホンイツ",
-      "value": 15
-    },
-    {
-      "source": "中",
-      "target": "ドラ",
-      "value": 337
-    },
-    {
-      "source": "中",
-      "target": "裏ドラ",
-      "value": 364
-    },
-    {
-      "source": "中",
-      "target": "赤ドラ",
-      "value": 346
-    },
-    {
-      "source": "中",
-      "target": "(喰)チャンタ",
-      "value": 19
-    },
-    {
-      "source": "中",
-      "target": "(喰)三色",
-      "value": 1
-    },
-    {
-      "source": "中",
-      "target": "(喰)ホンイツ",
-      "value": 188
-    },
-    {
-      "source": "七対子",
-      "target": "ホンイツ",
-      "value": 17
-    },
-    {
-      "source": "七対子",
-      "target": "ドラ",
-      "value": 341
-    },
-    {
-      "source": "七対子",
-      "target": "裏ドラ",
-      "value": 971
-    },
-    {
-      "source": "七対子",
-      "target": "赤ドラ",
-      "value": 377
-    },
-    {
-      "source": "チャンタ",
-      "target": "三色同順",
-      "value": 21
-    },
-    {
-      "source": "チャンタ",
-      "target": "三暗刻",
-      "value": 1
-    },
-    {
-      "source": "チャンタ",
-      "target": "ホンイツ",
-      "value": 2
-    },
-    {
-      "source": "チャンタ",
-      "target": "ドラ",
+      "source": 0,
+      "target": 23,
       "value": 33
     },
     {
-      "source": "チャンタ",
-      "target": "裏ドラ",
-      "value": 53
+      "source": 0,
+      "target": 24,
+      "value": 200
     },
     {
-      "source": "一気通貫",
-      "target": "ホンイツ",
-      "value": 7
+      "source": 0,
+      "target": 25,
+      "value": 472
     },
     {
-      "source": "一気通貫",
-      "target": "チンイツ",
-      "value": 1
+      "source": 0,
+      "target": 29,
+      "value": 159
     },
     {
-      "source": "一気通貫",
-      "target": "ドラ",
-      "value": 137
-    },
-    {
-      "source": "一気通貫",
-      "target": "裏ドラ",
-      "value": 286
-    },
-    {
-      "source": "一気通貫",
-      "target": "赤ドラ",
-      "value": 161
-    },
-    {
-      "source": "三色同順",
-      "target": "純チャン",
-      "value": 14
-    },
-    {
-      "source": "三色同順",
-      "target": "ドラ",
-      "value": 382
-    },
-    {
-      "source": "三色同順",
-      "target": "裏ドラ",
-      "value": 661
-    },
-    {
-      "source": "三色同順",
-      "target": "赤ドラ",
-      "value": 345
-    },
-    {
-      "source": "三色同刻",
-      "target": "対々和",
-      "value": 1
-    },
-    {
-      "source": "三色同刻",
-      "target": "ドラ",
-      "value": 2
-    },
-    {
-      "source": "三色同刻",
-      "target": "(喰)純チャン",
-      "value": 1
-    },
-    {
-      "source": "対々和",
-      "target": "三暗刻",
-      "value": 21
-    },
-    {
-      "source": "対々和",
-      "target": "混老頭",
-      "value": 2
-    },
-    {
-      "source": "対々和",
-      "target": "ホンイツ",
-      "value": 3
-    },
-    {
-      "source": "対々和",
-      "target": "(喰)チンイツ",
-      "value": 2
-    },
-    {
-      "source": "対々和",
-      "target": "ドラ",
-      "value": 48
-    },
-    {
-      "source": "対々和",
-      "target": "裏ドラ",
-      "value": 17
-    },
-    {
-      "source": "対々和",
-      "target": "赤ドラ",
-      "value": 49
-    },
-    {
-      "source": "対々和",
-      "target": "(喰)ホンイツ",
-      "value": 16
-    },
-    {
-      "source": "三暗刻",
-      "target": "ホンイツ",
-      "value": 7
-    },
-    {
-      "source": "三暗刻",
-      "target": "ドラ",
-      "value": 61
-    },
-    {
-      "source": "三暗刻",
-      "target": "裏ドラ",
-      "value": 164
-    },
-    {
-      "source": "三暗刻",
-      "target": "赤ドラ",
-      "value": 74
-    },
-    {
-      "source": "小三元",
-      "target": "ドラ",
-      "value": 1
-    },
-    {
-      "source": "小三元",
-      "target": "赤ドラ",
-      "value": 1
-    },
-    {
-      "source": "小三元",
-      "target": "(喰)ホンイツ",
-      "value": 1
-    },
-    {
-      "source": "混老頭",
-      "target": "ドラ",
-      "value": 3
-    },
-    {
-      "source": "混老頭",
-      "target": "(喰)ホンイツ",
-      "value": 5
-    },
-    {
-      "source": "二盃口",
-      "target": "ドラ",
-      "value": 3
-    },
-    {
-      "source": "二盃口",
-      "target": "裏ドラ",
-      "value": 12
-    },
-    {
-      "source": "二盃口",
-      "target": "赤ドラ",
-      "value": 14
-    },
-    {
-      "source": "純チャン",
-      "target": "ドラ",
-      "value": 19
-    },
-    {
-      "source": "純チャン",
-      "target": "裏ドラ",
-      "value": 20
-    },
-    {
-      "source": "ホンイツ",
-      "target": "ドラ",
-      "value": 46
-    },
-    {
-      "source": "ホンイツ",
-      "target": "裏ドラ",
-      "value": 75
-    },
-    {
-      "source": "ホンイツ",
-      "target": "赤ドラ",
-      "value": 50
-    },
-    {
-      "source": "チンイツ",
-      "target": "ドラ",
-      "value": 7
-    },
-    {
-      "source": "チンイツ",
-      "target": "裏ドラ",
-      "value": 1
-    },
-    {
-      "source": "チンイツ",
-      "target": "赤ドラ",
-      "value": 5
-    },
-    {
-      "source": "(喰)チンイツ",
-      "target": "ドラ",
-      "value": 5
-    },
-    {
-      "source": "(喰)チンイツ",
-      "target": "赤ドラ",
+      "source": 0,
+      "target": 32,
       "value": 8
     },
     {
-      "source": "ドラ",
-      "target": "裏ドラ",
-      "value": 9514
+      "source": 0,
+      "target": 33,
+      "value": 9
     },
     {
-      "source": "ドラ",
-      "target": "赤ドラ",
-      "value": 10188
+      "source": 0,
+      "target": 34,
+      "value": 78
     },
     {
-      "source": "ドラ",
-      "target": "(喰)チャンタ",
-      "value": 119
+      "source": 0,
+      "target": 35,
+      "value": 5
     },
     {
-      "source": "ドラ",
-      "target": "(喰)イッツー",
+      "source": 0,
+      "target": 52,
+      "value": 5900
+    },
+    {
+      "source": 0,
+      "target": 53,
+      "value": 12485
+    },
+    {
+      "source": 0,
+      "target": 54,
+      "value": 6764
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 4737
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 50
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 114
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 94
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 8919
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 3523
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "value": 1321
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "value": 108
+    },
+    {
+      "source": 1,
+      "target": 11,
+      "value": 112
+    },
+    {
+      "source": 1,
+      "target": 12,
+      "value": 96
+    },
+    {
+      "source": 1,
+      "target": 13,
+      "value": 66
+    },
+    {
+      "source": 1,
+      "target": 14,
+      "value": 230
+    },
+    {
+      "source": 1,
+      "target": 15,
+      "value": 129
+    },
+    {
+      "source": 1,
+      "target": 16,
+      "value": 2
+    },
+    {
+      "source": 1,
+      "target": 18,
+      "value": 397
+    },
+    {
+      "source": 1,
+      "target": 19,
+      "value": 372
+    },
+    {
+      "source": 1,
+      "target": 20,
+      "value": 361
+    },
+    {
+      "source": 1,
+      "target": 22,
+      "value": 956
+    },
+    {
+      "source": 1,
+      "target": 23,
+      "value": 53
+    },
+    {
+      "source": 1,
+      "target": 24,
+      "value": 286
+    },
+    {
+      "source": 1,
+      "target": 25,
+      "value": 661
+    },
+    {
+      "source": 1,
+      "target": 28,
+      "value": 17
+    },
+    {
+      "source": 1,
+      "target": 29,
+      "value": 162
+    },
+    {
+      "source": 1,
+      "target": 32,
+      "value": 12
+    },
+    {
+      "source": 1,
+      "target": 33,
+      "value": 20
+    },
+    {
+      "source": 1,
+      "target": 34,
+      "value": 75
+    },
+    {
+      "source": 1,
+      "target": 35,
       "value": 1
     },
     {
-      "source": "ドラ",
-      "target": "(喰)三色",
-      "value": 7
+      "source": 1,
+      "target": 52,
+      "value": 9481
     },
     {
-      "source": "ドラ",
-      "target": "(喰)純チャン",
+      "source": 1,
+      "target": 53,
+      "value": 25415
+    },
+    {
+      "source": 1,
+      "target": 54,
+      "value": 10829
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1732
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "value": 716
+    },
+    {
+      "source": 2,
+      "target": 9,
+      "value": 232
+    },
+    {
+      "source": 2,
+      "target": 10,
+      "value": 25
+    },
+    {
+      "source": 2,
+      "target": 11,
+      "value": 26
+    },
+    {
+      "source": 2,
+      "target": 12,
+      "value": 14
+    },
+    {
+      "source": 2,
+      "target": 13,
+      "value": 9
+    },
+    {
+      "source": 2,
+      "target": 14,
+      "value": 61
+    },
+    {
+      "source": 2,
+      "target": 15,
+      "value": 23
+    },
+    {
+      "source": 2,
+      "target": 16,
+      "value": 2
+    },
+    {
+      "source": 2,
+      "target": 18,
+      "value": 82
+    },
+    {
+      "source": 2,
+      "target": 19,
+      "value": 66
+    },
+    {
+      "source": 2,
+      "target": 20,
+      "value": 85
+    },
+    {
+      "source": 2,
+      "target": 21,
+      "value": 16
+    },
+    {
+      "source": 2,
+      "target": 22,
+      "value": 186
+    },
+    {
+      "source": 2,
+      "target": 23,
+      "value": 14
+    },
+    {
+      "source": 2,
+      "target": 24,
+      "value": 39
+    },
+    {
+      "source": 2,
+      "target": 25,
+      "value": 136
+    },
+    {
+      "source": 2,
+      "target": 28,
+      "value": 2
+    },
+    {
+      "source": 2,
+      "target": 29,
+      "value": 29
+    },
+    {
+      "source": 2,
+      "target": 32,
+      "value": 6
+    },
+    {
+      "source": 2,
+      "target": 33,
+      "value": 6
+    },
+    {
+      "source": 2,
+      "target": 34,
       "value": 19
     },
     {
-      "source": "ドラ",
-      "target": "(喰)ホンイツ",
-      "value": 465
+      "source": 2,
+      "target": 52,
+      "value": 1823
     },
     {
-      "source": "裏ドラ",
-      "target": "赤ドラ",
-      "value": 10878
+      "source": 2,
+      "target": 53,
+      "value": 4753
     },
     {
-      "source": "赤ドラ",
-      "target": "(喰)イッツー",
+      "source": 2,
+      "target": 54,
+      "value": 2001
+    },
+    {
+      "source": 3,
+      "target": 7,
       "value": 2
     },
     {
-      "source": "赤ドラ",
-      "target": "(喰)三色",
+      "source": 3,
+      "target": 8,
+      "value": 3
+    },
+    {
+      "source": 3,
+      "target": 52,
       "value": 4
     },
     {
-      "source": "赤ドラ",
-      "target": "(喰)ホンイツ",
-      "value": 495
+      "source": 3,
+      "target": 54,
+      "value": 3
     },
     {
-      "source": "(喰)チャンタ",
-      "target": "(喰)三色",
+      "source": 3,
+      "target": 57,
       "value": 1
     },
     {
-      "source": "(喰)チャンタ",
-      "target": "(喰)ホンイツ",
-      "value": 56
+      "source": 4,
+      "target": 8,
+      "value": 27
     },
     {
-      "source": "(喰)イッツー",
-      "target": "(喰)ホンイツ",
+      "source": 4,
+      "target": 9,
+      "value": 5
+    },
+    {
+      "source": 4,
+      "target": 10,
+      "value": 9
+    },
+    {
+      "source": 4,
+      "target": 11,
+      "value": 5
+    },
+    {
+      "source": 4,
+      "target": 12,
+      "value": 1
+    },
+    {
+      "source": 4,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 4,
+      "target": 14,
+      "value": 15
+    },
+    {
+      "source": 4,
+      "target": 15,
+      "value": 7
+    },
+    {
+      "source": 4,
+      "target": 18,
+      "value": 20
+    },
+    {
+      "source": 4,
+      "target": 19,
+      "value": 16
+    },
+    {
+      "source": 4,
+      "target": 20,
+      "value": 20
+    },
+    {
+      "source": 4,
+      "target": 21,
+      "value": 1
+    },
+    {
+      "source": 4,
+      "target": 26,
+      "value": 1
+    },
+    {
+      "source": 4,
+      "target": 28,
+      "value": 3
+    },
+    {
+      "source": 4,
+      "target": 29,
+      "value": 4
+    },
+    {
+      "source": 4,
+      "target": 31,
+      "value": 1
+    },
+    {
+      "source": 4,
+      "target": 52,
+      "value": 66
+    },
+    {
+      "source": 4,
+      "target": 53,
+      "value": 51
+    },
+    {
+      "source": 4,
+      "target": 54,
+      "value": 66
+    },
+    {
+      "source": 4,
+      "target": 55,
+      "value": 1
+    },
+    {
+      "source": 4,
+      "target": 56,
+      "value": 1
+    },
+    {
+      "source": 4,
+      "target": 57,
+      "value": 1
+    },
+    {
+      "source": 4,
+      "target": 58,
+      "value": 1
+    },
+    {
+      "source": 4,
+      "target": 59,
+      "value": 13
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 58
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 78
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "value": 13
+    },
+    {
+      "source": 5,
+      "target": 10,
+      "value": 7
+    },
+    {
+      "source": 5,
+      "target": 11,
+      "value": 4
+    },
+    {
+      "source": 5,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 14,
+      "value": 6
+    },
+    {
+      "source": 5,
+      "target": 15,
+      "value": 6
+    },
+    {
+      "source": 5,
+      "target": 18,
+      "value": 9
+    },
+    {
+      "source": 5,
+      "target": 19,
+      "value": 10
+    },
+    {
+      "source": 5,
+      "target": 20,
+      "value": 15
+    },
+    {
+      "source": 5,
+      "target": 22,
       "value": 2
+    },
+    {
+      "source": 5,
+      "target": 23,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 24,
+      "value": 4
+    },
+    {
+      "source": 5,
+      "target": 25,
+      "value": 2
+    },
+    {
+      "source": 5,
+      "target": 28,
+      "value": 4
+    },
+    {
+      "source": 5,
+      "target": 29,
+      "value": 5
+    },
+    {
+      "source": 5,
+      "target": 30,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 34,
+      "value": 2
+    },
+    {
+      "source": 5,
+      "target": 35,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 36,
+      "value": 2
+    },
+    {
+      "source": 5,
+      "target": 52,
+      "value": 133
+    },
+    {
+      "source": 5,
+      "target": 53,
+      "value": 114
+    },
+    {
+      "source": 5,
+      "target": 54,
+      "value": 130
+    },
+    {
+      "source": 5,
+      "target": 55,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 56,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 57,
+      "value": 5
+    },
+    {
+      "source": 5,
+      "target": 59,
+      "value": 7
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 52
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 59
+    },
+    {
+      "source": 6,
+      "target": 9,
+      "value": 8
+    },
+    {
+      "source": 6,
+      "target": 10,
+      "value": 3
+    },
+    {
+      "source": 6,
+      "target": 11,
+      "value": 5
+    },
+    {
+      "source": 6,
+      "target": 12,
+      "value": 2
+    },
+    {
+      "source": 6,
+      "target": 13,
+      "value": 3
+    },
+    {
+      "source": 6,
+      "target": 14,
+      "value": 9
+    },
+    {
+      "source": 6,
+      "target": 15,
+      "value": 5
+    },
+    {
+      "source": 6,
+      "target": 18,
+      "value": 13
+    },
+    {
+      "source": 6,
+      "target": 19,
+      "value": 16
+    },
+    {
+      "source": 6,
+      "target": 20,
+      "value": 11
+    },
+    {
+      "source": 6,
+      "target": 22,
+      "value": 4
+    },
+    {
+      "source": 6,
+      "target": 24,
+      "value": 3
+    },
+    {
+      "source": 6,
+      "target": 25,
+      "value": 8
+    },
+    {
+      "source": 6,
+      "target": 28,
+      "value": 2
+    },
+    {
+      "source": 6,
+      "target": 29,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 34,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 52,
+      "value": 141
+    },
+    {
+      "source": 6,
+      "target": 53,
+      "value": 94
+    },
+    {
+      "source": 6,
+      "target": 54,
+      "value": 139
+    },
+    {
+      "source": 6,
+      "target": 55,
+      "value": 2
+    },
+    {
+      "source": 6,
+      "target": 56,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 57,
+      "value": 5
+    },
+    {
+      "source": 6,
+      "target": 58,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 59,
+      "value": 11
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 2587
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "value": 1080
+    },
+    {
+      "source": 7,
+      "target": 21,
+      "value": 27
+    },
+    {
+      "source": 7,
+      "target": 23,
+      "value": 7
+    },
+    {
+      "source": 7,
+      "target": 24,
+      "value": 209
+    },
+    {
+      "source": 7,
+      "target": 25,
+      "value": 554
+    },
+    {
+      "source": 7,
+      "target": 32,
+      "value": 19
+    },
+    {
+      "source": 7,
+      "target": 33,
+      "value": 13
+    },
+    {
+      "source": 7,
+      "target": 34,
+      "value": 3
+    },
+    {
+      "source": 7,
+      "target": 35,
+      "value": 10
+    },
+    {
+      "source": 7,
+      "target": 52,
+      "value": 4826
+    },
+    {
+      "source": 7,
+      "target": 53,
+      "value": 8946
+    },
+    {
+      "source": 7,
+      "target": 54,
+      "value": 5924
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 639
+    },
+    {
+      "source": 8,
+      "target": 21,
+      "value": 8
+    },
+    {
+      "source": 8,
+      "target": 22,
+      "value": 148
+    },
+    {
+      "source": 8,
+      "target": 25,
+      "value": 324
+    },
+    {
+      "source": 8,
+      "target": 26,
+      "value": 8
+    },
+    {
+      "source": 8,
+      "target": 28,
+      "value": 85
+    },
+    {
+      "source": 8,
+      "target": 29,
+      "value": 65
+    },
+    {
+      "source": 8,
+      "target": 32,
+      "value": 14
+    },
+    {
+      "source": 8,
+      "target": 36,
+      "value": 6
+    },
+    {
+      "source": 8,
+      "target": 52,
+      "value": 5425
+    },
+    {
+      "source": 8,
+      "target": 53,
+      "value": 3531
+    },
+    {
+      "source": 8,
+      "target": 54,
+      "value": 7814
+    },
+    {
+      "source": 8,
+      "target": 57,
+      "value": 352
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 4
+    },
+    {
+      "source": 9,
+      "target": 11,
+      "value": 10
+    },
+    {
+      "source": 9,
+      "target": 12,
+      "value": 2
+    },
+    {
+      "source": 9,
+      "target": 13,
+      "value": 4
+    },
+    {
+      "source": 9,
+      "target": 14,
+      "value": 15
+    },
+    {
+      "source": 9,
+      "target": 15,
+      "value": 12
+    },
+    {
+      "source": 9,
+      "target": 18,
+      "value": 18
+    },
+    {
+      "source": 9,
+      "target": 19,
+      "value": 17
+    },
+    {
+      "source": 9,
+      "target": 20,
+      "value": 18
+    },
+    {
+      "source": 9,
+      "target": 21,
+      "value": 2
+    },
+    {
+      "source": 9,
+      "target": 23,
+      "value": 12
+    },
+    {
+      "source": 9,
+      "target": 24,
+      "value": 7
+    },
+    {
+      "source": 9,
+      "target": 25,
+      "value": 34
+    },
+    {
+      "source": 9,
+      "target": 33,
+      "value": 13
+    },
+    {
+      "source": 9,
+      "target": 34,
+      "value": 43
+    },
+    {
+      "source": 9,
+      "target": 35,
+      "value": 11
+    },
+    {
+      "source": 9,
+      "target": 52,
+      "value": 749
+    },
+    {
+      "source": 9,
+      "target": 53,
+      "value": 1323
+    },
+    {
+      "source": 9,
+      "target": 54,
+      "value": 1039
+    },
+    {
+      "source": 10,
+      "target": 14,
+      "value": 914
+    },
+    {
+      "source": 10,
+      "target": 15,
+      "value": 28
+    },
+    {
+      "source": 10,
+      "target": 18,
+      "value": 64
+    },
+    {
+      "source": 10,
+      "target": 19,
+      "value": 44
+    },
+    {
+      "source": 10,
+      "target": 20,
+      "value": 69
+    },
+    {
+      "source": 10,
+      "target": 23,
+      "value": 2
+    },
+    {
+      "source": 10,
+      "target": 24,
+      "value": 2
+    },
+    {
+      "source": 10,
+      "target": 25,
+      "value": 2
+    },
+    {
+      "source": 10,
+      "target": 28,
+      "value": 41
+    },
+    {
+      "source": 10,
+      "target": 29,
+      "value": 10
+    },
+    {
+      "source": 10,
+      "target": 34,
+      "value": 5
+    },
+    {
+      "source": 10,
+      "target": 52,
+      "value": 544
+    },
+    {
+      "source": 10,
+      "target": 53,
+      "value": 108
+    },
+    {
+      "source": 10,
+      "target": 54,
+      "value": 520
+    },
+    {
+      "source": 10,
+      "target": 55,
+      "value": 16
+    },
+    {
+      "source": 10,
+      "target": 56,
+      "value": 2
+    },
+    {
+      "source": 10,
+      "target": 57,
+      "value": 12
+    },
+    {
+      "source": 10,
+      "target": 59,
+      "value": 137
+    },
+    {
+      "source": 11,
+      "target": 14,
+      "value": 34
+    },
+    {
+      "source": 11,
+      "target": 15,
+      "value": 607
+    },
+    {
+      "source": 11,
+      "target": 18,
+      "value": 62
+    },
+    {
+      "source": 11,
+      "target": 19,
+      "value": 75
+    },
+    {
+      "source": 11,
+      "target": 20,
+      "value": 46
+    },
+    {
+      "source": 11,
+      "target": 23,
+      "value": 3
+    },
+    {
+      "source": 11,
+      "target": 24,
+      "value": 1
+    },
+    {
+      "source": 11,
+      "target": 25,
+      "value": 1
+    },
+    {
+      "source": 11,
+      "target": 28,
+      "value": 35
+    },
+    {
+      "source": 11,
+      "target": 29,
+      "value": 7
+    },
+    {
+      "source": 11,
+      "target": 31,
+      "value": 1
+    },
+    {
+      "source": 11,
+      "target": 34,
+      "value": 7
+    },
+    {
+      "source": 11,
+      "target": 52,
+      "value": 462
+    },
+    {
+      "source": 11,
+      "target": 53,
+      "value": 112
+    },
+    {
+      "source": 11,
+      "target": 54,
+      "value": 513
+    },
+    {
+      "source": 11,
+      "target": 55,
+      "value": 14
+    },
+    {
+      "source": 11,
+      "target": 56,
+      "value": 8
+    },
+    {
+      "source": 11,
+      "target": 57,
+      "value": 8
+    },
+    {
+      "source": 11,
+      "target": 59,
+      "value": 146
+    },
+    {
+      "source": 12,
+      "target": 14,
+      "value": 28
+    },
+    {
+      "source": 12,
+      "target": 15,
+      "value": 26
+    },
+    {
+      "source": 12,
+      "target": 16,
+      "value": 11
+    },
+    {
+      "source": 12,
+      "target": 18,
+      "value": 45
+    },
+    {
+      "source": 12,
+      "target": 19,
+      "value": 53
+    },
+    {
+      "source": 12,
+      "target": 20,
+      "value": 51
+    },
+    {
+      "source": 12,
+      "target": 23,
+      "value": 1
+    },
+    {
+      "source": 12,
+      "target": 24,
+      "value": 1
+    },
+    {
+      "source": 12,
+      "target": 25,
+      "value": 2
+    },
+    {
+      "source": 12,
+      "target": 27,
+      "value": 1
+    },
+    {
+      "source": 12,
+      "target": 28,
+      "value": 41
+    },
+    {
+      "source": 12,
+      "target": 29,
+      "value": 6
+    },
+    {
+      "source": 12,
+      "target": 31,
+      "value": 3
+    },
+    {
+      "source": 12,
+      "target": 34,
+      "value": 6
+    },
+    {
+      "source": 12,
+      "target": 52,
+      "value": 429
+    },
+    {
+      "source": 12,
+      "target": 53,
+      "value": 96
+    },
+    {
+      "source": 12,
+      "target": 54,
+      "value": 412
+    },
+    {
+      "source": 12,
+      "target": 55,
+      "value": 14
+    },
+    {
+      "source": 12,
+      "target": 56,
+      "value": 2
+    },
+    {
+      "source": 12,
+      "target": 57,
+      "value": 7
+    },
+    {
+      "source": 12,
+      "target": 59,
+      "value": 139
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "value": 21
+    },
+    {
+      "source": 13,
+      "target": 15,
+      "value": 25
+    },
+    {
+      "source": 13,
+      "target": 18,
+      "value": 77
+    },
+    {
+      "source": 13,
+      "target": 19,
+      "value": 42
+    },
+    {
+      "source": 13,
+      "target": 20,
+      "value": 69
+    },
+    {
+      "source": 13,
+      "target": 23,
+      "value": 2
+    },
+    {
+      "source": 13,
+      "target": 24,
+      "value": 1
+    },
+    {
+      "source": 13,
+      "target": 25,
+      "value": 1
+    },
+    {
+      "source": 13,
+      "target": 28,
+      "value": 57
+    },
+    {
+      "source": 13,
+      "target": 29,
+      "value": 15
+    },
+    {
+      "source": 13,
+      "target": 34,
+      "value": 5
+    },
+    {
+      "source": 13,
+      "target": 52,
+      "value": 378
+    },
+    {
+      "source": 13,
+      "target": 53,
+      "value": 66
+    },
+    {
+      "source": 13,
+      "target": 54,
+      "value": 345
+    },
+    {
+      "source": 13,
+      "target": 55,
+      "value": 11
+    },
+    {
+      "source": 13,
+      "target": 56,
+      "value": 1
+    },
+    {
+      "source": 13,
+      "target": 57,
+      "value": 3
+    },
+    {
+      "source": 13,
+      "target": 59,
+      "value": 125
+    },
+    {
+      "source": 14,
+      "target": 18,
+      "value": 118
+    },
+    {
+      "source": 14,
+      "target": 19,
+      "value": 113
+    },
+    {
+      "source": 14,
+      "target": 20,
+      "value": 133
+    },
+    {
+      "source": 14,
+      "target": 23,
+      "value": 3
+    },
+    {
+      "source": 14,
+      "target": 25,
+      "value": 1
+    },
+    {
+      "source": 14,
+      "target": 28,
+      "value": 99
+    },
+    {
+      "source": 14,
+      "target": 29,
+      "value": 22
+    },
+    {
+      "source": 14,
+      "target": 31,
+      "value": 1
+    },
+    {
+      "source": 14,
+      "target": 34,
+      "value": 13
+    },
+    {
+      "source": 14,
+      "target": 52,
+      "value": 969
+    },
+    {
+      "source": 14,
+      "target": 53,
+      "value": 230
+    },
+    {
+      "source": 14,
+      "target": 54,
+      "value": 989
+    },
+    {
+      "source": 14,
+      "target": 55,
+      "value": 37
+    },
+    {
+      "source": 14,
+      "target": 56,
+      "value": 5
+    },
+    {
+      "source": 14,
+      "target": 57,
+      "value": 15
+    },
+    {
+      "source": 14,
+      "target": 59,
+      "value": 312
+    },
+    {
+      "source": 15,
+      "target": 18,
+      "value": 100
+    },
+    {
+      "source": 15,
+      "target": 19,
+      "value": 97
+    },
+    {
+      "source": 15,
+      "target": 20,
+      "value": 86
+    },
+    {
+      "source": 15,
+      "target": 21,
+      "value": 1
+    },
+    {
+      "source": 15,
+      "target": 23,
+      "value": 4
+    },
+    {
+      "source": 15,
+      "target": 24,
+      "value": 4
+    },
+    {
+      "source": 15,
+      "target": 25,
+      "value": 3
+    },
+    {
+      "source": 15,
+      "target": 28,
+      "value": 63
+    },
+    {
+      "source": 15,
+      "target": 29,
+      "value": 18
+    },
+    {
+      "source": 15,
+      "target": 31,
+      "value": 2
+    },
+    {
+      "source": 15,
+      "target": 34,
+      "value": 14
+    },
+    {
+      "source": 15,
+      "target": 52,
+      "value": 664
+    },
+    {
+      "source": 15,
+      "target": 53,
+      "value": 130
+    },
+    {
+      "source": 15,
+      "target": 54,
+      "value": 722
+    },
+    {
+      "source": 15,
+      "target": 55,
+      "value": 33
+    },
+    {
+      "source": 15,
+      "target": 56,
+      "value": 6
+    },
+    {
+      "source": 15,
+      "target": 57,
+      "value": 14
+    },
+    {
+      "source": 15,
+      "target": 59,
+      "value": 228
+    },
+    {
+      "source": 16,
+      "target": 19,
+      "value": 2
+    },
+    {
+      "source": 16,
+      "target": 20,
+      "value": 2
+    },
+    {
+      "source": 16,
+      "target": 52,
+      "value": 14
+    },
+    {
+      "source": 16,
+      "target": 53,
+      "value": 2
+    },
+    {
+      "source": 16,
+      "target": 54,
+      "value": 11
+    },
+    {
+      "source": 16,
+      "target": 55,
+      "value": 1
+    },
+    {
+      "source": 16,
+      "target": 59,
+      "value": 1
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "value": 218
+    },
+    {
+      "source": 18,
+      "target": 20,
+      "value": 234
+    },
+    {
+      "source": 18,
+      "target": 21,
+      "value": 3
+    },
+    {
+      "source": 18,
+      "target": 23,
+      "value": 7
+    },
+    {
+      "source": 18,
+      "target": 24,
+      "value": 2
+    },
+    {
+      "source": 18,
+      "target": 25,
+      "value": 8
+    },
+    {
+      "source": 18,
+      "target": 28,
+      "value": 193
+    },
+    {
+      "source": 18,
+      "target": 29,
+      "value": 32
+    },
+    {
+      "source": 18,
+      "target": 30,
+      "value": 25
+    },
+    {
+      "source": 18,
+      "target": 31,
+      "value": 1
+    },
+    {
+      "source": 18,
+      "target": 34,
+      "value": 28
+    },
+    {
+      "source": 18,
+      "target": 52,
+      "value": 1724
+    },
+    {
+      "source": 18,
+      "target": 53,
+      "value": 400
+    },
+    {
+      "source": 18,
+      "target": 54,
+      "value": 1705
+    },
+    {
+      "source": 18,
+      "target": 55,
+      "value": 71
+    },
+    {
+      "source": 18,
+      "target": 56,
+      "value": 19
+    },
+    {
+      "source": 18,
+      "target": 57,
+      "value": 23
+    },
+    {
+      "source": 18,
+      "target": 59,
+      "value": 566
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "value": 240
+    },
+    {
+      "source": 19,
+      "target": 21,
+      "value": 1
+    },
+    {
+      "source": 19,
+      "target": 23,
+      "value": 5
+    },
+    {
+      "source": 19,
+      "target": 24,
+      "value": 1
+    },
+    {
+      "source": 19,
+      "target": 25,
+      "value": 2
+    },
+    {
+      "source": 19,
+      "target": 28,
+      "value": 147
+    },
+    {
+      "source": 19,
+      "target": 29,
+      "value": 26
+    },
+    {
+      "source": 19,
+      "target": 30,
+      "value": 26
+    },
+    {
+      "source": 19,
+      "target": 31,
+      "value": 5
+    },
+    {
+      "source": 19,
+      "target": 34,
+      "value": 27
+    },
+    {
+      "source": 19,
+      "target": 52,
+      "value": 1662
+    },
+    {
+      "source": 19,
+      "target": 53,
+      "value": 373
+    },
+    {
+      "source": 19,
+      "target": 54,
+      "value": 1718
+    },
+    {
+      "source": 19,
+      "target": 55,
+      "value": 66
+    },
+    {
+      "source": 19,
+      "target": 56,
+      "value": 11
+    },
+    {
+      "source": 19,
+      "target": 57,
+      "value": 30
+    },
+    {
+      "source": 19,
+      "target": 59,
+      "value": 532
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "value": 3
+    },
+    {
+      "source": 20,
+      "target": 23,
+      "value": 4
+    },
+    {
+      "source": 20,
+      "target": 24,
+      "value": 5
+    },
+    {
+      "source": 20,
+      "target": 25,
+      "value": 2
+    },
+    {
+      "source": 20,
+      "target": 26,
+      "value": 1
+    },
+    {
+      "source": 20,
+      "target": 28,
+      "value": 193
+    },
+    {
+      "source": 20,
+      "target": 29,
+      "value": 46
+    },
+    {
+      "source": 20,
+      "target": 30,
+      "value": 29
+    },
+    {
+      "source": 20,
+      "target": 31,
+      "value": 9
+    },
+    {
+      "source": 20,
+      "target": 34,
+      "value": 24
+    },
+    {
+      "source": 20,
+      "target": 52,
+      "value": 1700
+    },
+    {
+      "source": 20,
+      "target": 53,
+      "value": 364
+    },
+    {
+      "source": 20,
+      "target": 54,
+      "value": 1711
+    },
+    {
+      "source": 20,
+      "target": 55,
+      "value": 67
+    },
+    {
+      "source": 20,
+      "target": 56,
+      "value": 13
+    },
+    {
+      "source": 20,
+      "target": 57,
+      "value": 24
+    },
+    {
+      "source": 20,
+      "target": 59,
+      "value": 558
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "value": 15
+    },
+    {
+      "source": 21,
+      "target": 29,
+      "value": 2
+    },
+    {
+      "source": 21,
+      "target": 52,
+      "value": 33
+    },
+    {
+      "source": 21,
+      "target": 53,
+      "value": 129
+    },
+    {
+      "source": 21,
+      "target": 54,
+      "value": 49
+    },
+    {
+      "source": 22,
+      "target": 34,
+      "value": 32
+    },
+    {
+      "source": 22,
+      "target": 52,
+      "value": 581
+    },
+    {
+      "source": 22,
+      "target": 53,
+      "value": 971
+    },
+    {
+      "source": 22,
+      "target": 54,
+      "value": 563
+    },
+    {
+      "source": 23,
+      "target": 25,
+      "value": 25
+    },
+    {
+      "source": 23,
+      "target": 29,
+      "value": 1
+    },
+    {
+      "source": 23,
+      "target": 34,
+      "value": 2
+    },
+    {
+      "source": 23,
+      "target": 52,
+      "value": 36
+    },
+    {
+      "source": 23,
+      "target": 53,
+      "value": 53
+    },
+    {
+      "source": 24,
+      "target": 34,
+      "value": 17
+    },
+    {
+      "source": 24,
+      "target": 35,
+      "value": 2
+    },
+    {
+      "source": 24,
+      "target": 52,
+      "value": 186
+    },
+    {
+      "source": 24,
+      "target": 53,
+      "value": 286
+    },
+    {
+      "source": 24,
+      "target": 54,
+      "value": 214
+    },
+    {
+      "source": 25,
+      "target": 33,
+      "value": 21
+    },
+    {
+      "source": 25,
+      "target": 52,
+      "value": 494
+    },
+    {
+      "source": 25,
+      "target": 53,
+      "value": 661
+    },
+    {
+      "source": 25,
+      "target": 54,
+      "value": 433
+    },
+    {
+      "source": 26,
+      "target": 28,
+      "value": 7
+    },
+    {
+      "source": 26,
+      "target": 29,
+      "value": 1
+    },
+    {
+      "source": 26,
+      "target": 52,
+      "value": 7
+    },
+    {
+      "source": 26,
+      "target": 54,
+      "value": 4
+    },
+    {
+      "source": 26,
+      "target": 55,
+      "value": 1
+    },
+    {
+      "source": 26,
+      "target": 58,
+      "value": 1
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "value": 1
+    },
+    {
+      "source": 27,
+      "target": 54,
+      "value": 1
+    },
+    {
+      "source": 28,
+      "target": 29,
+      "value": 143
+    },
+    {
+      "source": 28,
+      "target": 30,
+      "value": 2
+    },
+    {
+      "source": 28,
+      "target": 31,
+      "value": 12
+    },
+    {
+      "source": 28,
+      "target": 34,
+      "value": 3
+    },
+    {
+      "source": 28,
+      "target": 36,
+      "value": 4
+    },
+    {
+      "source": 28,
+      "target": 52,
+      "value": 218
+    },
+    {
+      "source": 28,
+      "target": 53,
+      "value": 17
+    },
+    {
+      "source": 28,
+      "target": 54,
+      "value": 262
+    },
+    {
+      "source": 28,
+      "target": 59,
+      "value": 153
+    },
+    {
+      "source": 29,
+      "target": 31,
+      "value": 1
+    },
+    {
+      "source": 29,
+      "target": 34,
+      "value": 12
+    },
+    {
+      "source": 29,
+      "target": 36,
+      "value": 3
+    },
+    {
+      "source": 29,
+      "target": 52,
+      "value": 122
+    },
+    {
+      "source": 29,
+      "target": 53,
+      "value": 164
+    },
+    {
+      "source": 29,
+      "target": 54,
+      "value": 140
+    },
+    {
+      "source": 29,
+      "target": 59,
+      "value": 16
+    },
+    {
+      "source": 30,
+      "target": 52,
+      "value": 6
+    },
+    {
+      "source": 30,
+      "target": 54,
+      "value": 13
+    },
+    {
+      "source": 30,
+      "target": 55,
+      "value": 3
+    },
+    {
+      "source": 30,
+      "target": 59,
+      "value": 20
+    },
+    {
+      "source": 31,
+      "target": 52,
+      "value": 3
+    },
+    {
+      "source": 31,
+      "target": 59,
+      "value": 5
+    },
+    {
+      "source": 32,
+      "target": 33,
+      "value": 1
+    },
+    {
+      "source": 32,
+      "target": 52,
+      "value": 3
+    },
+    {
+      "source": 32,
+      "target": 53,
+      "value": 12
+    },
+    {
+      "source": 32,
+      "target": 54,
+      "value": 15
+    },
+    {
+      "source": 33,
+      "target": 52,
+      "value": 24
+    },
+    {
+      "source": 33,
+      "target": 53,
+      "value": 20
+    },
+    {
+      "source": 34,
+      "target": 52,
+      "value": 50
+    },
+    {
+      "source": 34,
+      "target": 53,
+      "value": 75
+    },
+    {
+      "source": 34,
+      "target": 54,
+      "value": 58
+    },
+    {
+      "source": 35,
+      "target": 52,
+      "value": 11
+    },
+    {
+      "source": 35,
+      "target": 53,
+      "value": 1
+    },
+    {
+      "source": 35,
+      "target": 54,
+      "value": 13
+    },
+    {
+      "source": 36,
+      "target": 52,
+      "value": 47
+    },
+    {
+      "source": 36,
+      "target": 54,
+      "value": 99
+    },
+    {
+      "source": 36,
+      "target": 56,
+      "value": 11
+    },
+    {
+      "source": 42,
+      "target": 50,
+      "value": 2
+    },
+    {
+      "source": 52,
+      "target": 53,
+      "value": 9514
+    },
+    {
+      "source": 52,
+      "target": 54,
+      "value": 10188
+    },
+    {
+      "source": 52,
+      "target": 55,
+      "value": 176
+    },
+    {
+      "source": 52,
+      "target": 56,
+      "value": 161
+    },
+    {
+      "source": 52,
+      "target": 57,
+      "value": 518
+    },
+    {
+      "source": 52,
+      "target": 58,
+      "value": 51
+    },
+    {
+      "source": 52,
+      "target": 59,
+      "value": 603
+    },
+    {
+      "source": 53,
+      "target": 54,
+      "value": 10878
+    },
+    {
+      "source": 54,
+      "target": 56,
+      "value": 153
+    },
+    {
+      "source": 54,
+      "target": 57,
+      "value": 432
+    },
+    {
+      "source": 54,
+      "target": 59,
+      "value": 641
+    },
+    {
+      "source": 55,
+      "target": 57,
+      "value": 62
+    },
+    {
+      "source": 55,
+      "target": 59,
+      "value": 64
+    },
+    {
+      "source": 56,
+      "target": 59,
+      "value": 76
+    },
+    {
+      "source": 57,
+      "target": 58,
+      "value": 39
     }
   ]
 }
