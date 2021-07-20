@@ -1,0 +1,1776 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "label": "ツモ"
+    },
+    {
+      "id": 1,
+      "label": "リーチ"
+    },
+    {
+      "id": 2,
+      "label": "一発"
+    },
+    {
+      "id": 3,
+      "label": "槍槓"
+    },
+    {
+      "id": 4,
+      "label": "嶺上開花"
+    },
+    {
+      "id": 5,
+      "label": "海底撈月"
+    },
+    {
+      "id": 6,
+      "label": "河底撈魚"
+    },
+    {
+      "id": 7,
+      "label": "平和"
+    },
+    {
+      "id": 8,
+      "label": "タンヤオ"
+    },
+    {
+      "id": 9,
+      "label": "一盃口"
+    },
+    {
+      "id": 10,
+      "label": "自風東"
+    },
+    {
+      "id": 11,
+      "label": "自風南"
+    },
+    {
+      "id": 12,
+      "label": "自風西"
+    },
+    {
+      "id": 13,
+      "label": "自風北"
+    },
+    {
+      "id": 14,
+      "label": "場風東"
+    },
+    {
+      "id": 15,
+      "label": "場風南"
+    },
+    {
+      "id": 16,
+      "label": "場風西"
+    },
+    {
+      "id": 17,
+      "label": "場風北"
+    },
+    {
+      "id": 18,
+      "label": "白"
+    },
+    {
+      "id": 19,
+      "label": "發"
+    },
+    {
+      "id": 20,
+      "label": "中"
+    },
+    {
+      "id": 21,
+      "label": "ダブリー"
+    },
+    {
+      "id": 22,
+      "label": "七対子"
+    },
+    {
+      "id": 23,
+      "label": "チャンタ"
+    },
+    {
+      "id": 24,
+      "label": "一気通貫"
+    },
+    {
+      "id": 25,
+      "label": "三色同順"
+    },
+    {
+      "id": 26,
+      "label": "三色同刻"
+    },
+    {
+      "id": 27,
+      "label": "三槓子"
+    },
+    {
+      "id": 28,
+      "label": "対々和"
+    },
+    {
+      "id": 29,
+      "label": "三暗刻"
+    },
+    {
+      "id": 30,
+      "label": "小三元"
+    },
+    {
+      "id": 31,
+      "label": "混老頭"
+    },
+    {
+      "id": 32,
+      "label": "二盃口"
+    },
+    {
+      "id": 33,
+      "label": "純チャン"
+    },
+    {
+      "id": 34,
+      "label": "ホンイツ"
+    },
+    {
+      "id": 35,
+      "label": "チンイツ"
+    },
+    {
+      "id": 36,
+      "label": "(喰)チンイツ"
+    },
+    {
+      "id": 37,
+      "label": "天和"
+    },
+    {
+      "id": 38,
+      "label": "地和"
+    },
+    {
+      "id": 39,
+      "label": "大三元"
+    },
+    {
+      "id": 40,
+      "label": "四暗刻"
+    },
+    {
+      "id": 41,
+      "label": "四暗刻単騎"
+    },
+    {
+      "id": 42,
+      "label": "字一色"
+    },
+    {
+      "id": 43,
+      "label": "緑一色"
+    },
+    {
+      "id": 44,
+      "label": "清老頭"
+    },
+    {
+      "id": 45,
+      "label": "九蓮宝燈"
+    },
+    {
+      "id": 46,
+      "label": "純正九蓮宝燈"
+    },
+    {
+      "id": 47,
+      "label": "国士無双"
+    },
+    {
+      "id": 48,
+      "label": "国士無双13面"
+    },
+    {
+      "id": 49,
+      "label": "大四喜"
+    },
+    {
+      "id": 50,
+      "label": "小四喜"
+    },
+    {
+      "id": 51,
+      "label": "四槓子"
+    },
+    {
+      "id": 52,
+      "label": "ドラ"
+    },
+    {
+      "id": 53,
+      "label": "裏ドラ"
+    },
+    {
+      "id": 54,
+      "label": "赤ドラ"
+    },
+    {
+      "id": 55,
+      "label": "(喰)チャンタ"
+    },
+    {
+      "id": 56,
+      "label": "(喰)イッツー"
+    },
+    {
+      "id": 57,
+      "label": "(喰)三色"
+    },
+    {
+      "id": 58,
+      "label": "(喰)純チャン"
+    },
+    {
+      "id": 59,
+      "label": "(喰)ホンイツ"
+    }
+  ],
+  "links": [
+    {
+      "source": "一発",
+      "target": "海底撈月",
+      "value": 1
+    },
+    {
+      "source": "一発",
+      "target": "平和",
+      "value": 1732
+    },
+    {
+      "source": "一発",
+      "target": "タンヤオ",
+      "value": 716
+    },
+    {
+      "source": "一発",
+      "target": "一盃口",
+      "value": 232
+    },
+    {
+      "source": "一発",
+      "target": "自風東",
+      "value": 25
+    },
+    {
+      "source": "一発",
+      "target": "自風南",
+      "value": 26
+    },
+    {
+      "source": "一発",
+      "target": "自風西",
+      "value": 14
+    },
+    {
+      "source": "一発",
+      "target": "自風北",
+      "value": 9
+    },
+    {
+      "source": "一発",
+      "target": "場風東",
+      "value": 61
+    },
+    {
+      "source": "一発",
+      "target": "場風南",
+      "value": 23
+    },
+    {
+      "source": "一発",
+      "target": "場風西",
+      "value": 2
+    },
+    {
+      "source": "一発",
+      "target": "白",
+      "value": 82
+    },
+    {
+      "source": "一発",
+      "target": "發",
+      "value": 66
+    },
+    {
+      "source": "一発",
+      "target": "中",
+      "value": 85
+    },
+    {
+      "source": "一発",
+      "target": "七対子",
+      "value": 186
+    },
+    {
+      "source": "一発",
+      "target": "チャンタ",
+      "value": 14
+    },
+    {
+      "source": "一発",
+      "target": "一気通貫",
+      "value": 39
+    },
+    {
+      "source": "一発",
+      "target": "三色同順",
+      "value": 136
+    },
+    {
+      "source": "一発",
+      "target": "対々和",
+      "value": 2
+    },
+    {
+      "source": "一発",
+      "target": "三暗刻",
+      "value": 29
+    },
+    {
+      "source": "一発",
+      "target": "二盃口",
+      "value": 6
+    },
+    {
+      "source": "一発",
+      "target": "純チャン",
+      "value": 6
+    },
+    {
+      "source": "一発",
+      "target": "ホンイツ",
+      "value": 19
+    },
+    {
+      "source": "一発",
+      "target": "ドラ",
+      "value": 1823
+    },
+    {
+      "source": "一発",
+      "target": "裏ドラ",
+      "value": 4753
+    },
+    {
+      "source": "一発",
+      "target": "赤ドラ",
+      "value": 2001
+    },
+    {
+      "source": "嶺上開花",
+      "target": "タンヤオ",
+      "value": 8
+    },
+    {
+      "source": "嶺上開花",
+      "target": "一盃口",
+      "value": 4
+    },
+    {
+      "source": "嶺上開花",
+      "target": "自風東",
+      "value": 1
+    },
+    {
+      "source": "嶺上開花",
+      "target": "場風東",
+      "value": 1
+    },
+    {
+      "source": "嶺上開花",
+      "target": "白",
+      "value": 1
+    },
+    {
+      "source": "嶺上開花",
+      "target": "發",
+      "value": 3
+    },
+    {
+      "source": "嶺上開花",
+      "target": "中",
+      "value": 2
+    },
+    {
+      "source": "嶺上開花",
+      "target": "三暗刻",
+      "value": 1
+    },
+    {
+      "source": "嶺上開花",
+      "target": "ドラ",
+      "value": 18
+    },
+    {
+      "source": "嶺上開花",
+      "target": "裏ドラ",
+      "value": 51
+    },
+    {
+      "source": "嶺上開花",
+      "target": "赤ドラ",
+      "value": 19
+    },
+    {
+      "source": "海底撈月",
+      "target": "平和",
+      "value": 46
+    },
+    {
+      "source": "海底撈月",
+      "target": "タンヤオ",
+      "value": 18
+    },
+    {
+      "source": "海底撈月",
+      "target": "一盃口",
+      "value": 8
+    },
+    {
+      "source": "海底撈月",
+      "target": "自風南",
+      "value": 1
+    },
+    {
+      "source": "海底撈月",
+      "target": "場風南",
+      "value": 1
+    },
+    {
+      "source": "海底撈月",
+      "target": "白",
+      "value": 1
+    },
+    {
+      "source": "海底撈月",
+      "target": "發",
+      "value": 1
+    },
+    {
+      "source": "海底撈月",
+      "target": "中",
+      "value": 1
+    },
+    {
+      "source": "海底撈月",
+      "target": "チャンタ",
+      "value": 1
+    },
+    {
+      "source": "海底撈月",
+      "target": "一気通貫",
+      "value": 3
+    },
+    {
+      "source": "海底撈月",
+      "target": "三色同順",
+      "value": 1
+    },
+    {
+      "source": "海底撈月",
+      "target": "三暗刻",
+      "value": 1
+    },
+    {
+      "source": "海底撈月",
+      "target": "ホンイツ",
+      "value": 1
+    },
+    {
+      "source": "海底撈月",
+      "target": "ドラ",
+      "value": 58
+    },
+    {
+      "source": "海底撈月",
+      "target": "裏ドラ",
+      "value": 114
+    },
+    {
+      "source": "海底撈月",
+      "target": "赤ドラ",
+      "value": 42
+    },
+    {
+      "source": "河底撈魚",
+      "target": "平和",
+      "value": 35
+    },
+    {
+      "source": "河底撈魚",
+      "target": "タンヤオ",
+      "value": 8
+    },
+    {
+      "source": "河底撈魚",
+      "target": "一盃口",
+      "value": 2
+    },
+    {
+      "source": "河底撈魚",
+      "target": "自風南",
+      "value": 1
+    },
+    {
+      "source": "河底撈魚",
+      "target": "場風東",
+      "value": 1
+    },
+    {
+      "source": "河底撈魚",
+      "target": "白",
+      "value": 1
+    },
+    {
+      "source": "河底撈魚",
+      "target": "中",
+      "value": 1
+    },
+    {
+      "source": "河底撈魚",
+      "target": "七対子",
+      "value": 2
+    },
+    {
+      "source": "河底撈魚",
+      "target": "一気通貫",
+      "value": 2
+    },
+    {
+      "source": "河底撈魚",
+      "target": "三色同順",
+      "value": 2
+    },
+    {
+      "source": "河底撈魚",
+      "target": "ドラ",
+      "value": 50
+    },
+    {
+      "source": "河底撈魚",
+      "target": "裏ドラ",
+      "value": 94
+    },
+    {
+      "source": "河底撈魚",
+      "target": "赤ドラ",
+      "value": 42
+    },
+    {
+      "source": "平和",
+      "target": "タンヤオ",
+      "value": 1918
+    },
+    {
+      "source": "平和",
+      "target": "一盃口",
+      "value": 754
+    },
+    {
+      "source": "平和",
+      "target": "チャンタ",
+      "value": 4
+    },
+    {
+      "source": "平和",
+      "target": "一気通貫",
+      "value": 157
+    },
+    {
+      "source": "平和",
+      "target": "三色同順",
+      "value": 386
+    },
+    {
+      "source": "平和",
+      "target": "二盃口",
+      "value": 11
+    },
+    {
+      "source": "平和",
+      "target": "純チャン",
+      "value": 2
+    },
+    {
+      "source": "平和",
+      "target": "ホンイツ",
+      "value": 1
+    },
+    {
+      "source": "平和",
+      "target": "チンイツ",
+      "value": 1
+    },
+    {
+      "source": "平和",
+      "target": "ドラ",
+      "value": 3606
+    },
+    {
+      "source": "平和",
+      "target": "裏ドラ",
+      "value": 8946
+    },
+    {
+      "source": "平和",
+      "target": "赤ドラ",
+      "value": 4470
+    },
+    {
+      "source": "タンヤオ",
+      "target": "一盃口",
+      "value": 520
+    },
+    {
+      "source": "タンヤオ",
+      "target": "七対子",
+      "value": 86
+    },
+    {
+      "source": "タンヤオ",
+      "target": "三色同順",
+      "value": 266
+    },
+    {
+      "source": "タンヤオ",
+      "target": "三色同刻",
+      "value": 2
+    },
+    {
+      "source": "タンヤオ",
+      "target": "対々和",
+      "value": 26
+    },
+    {
+      "source": "タンヤオ",
+      "target": "三暗刻",
+      "value": 33
+    },
+    {
+      "source": "タンヤオ",
+      "target": "二盃口",
+      "value": 13
+    },
+    {
+      "source": "タンヤオ",
+      "target": "ドラ",
+      "value": 1913
+    },
+    {
+      "source": "タンヤオ",
+      "target": "裏ドラ",
+      "value": 3531
+    },
+    {
+      "source": "タンヤオ",
+      "target": "赤ドラ",
+      "value": 3002
+    },
+    {
+      "source": "タンヤオ",
+      "target": "(喰)三色",
+      "value": 2
+    },
+    {
+      "source": "一盃口",
+      "target": "自風東",
+      "value": 1
+    },
+    {
+      "source": "一盃口",
+      "target": "自風南",
+      "value": 6
+    },
+    {
+      "source": "一盃口",
+      "target": "自風西",
+      "value": 1
+    },
+    {
+      "source": "一盃口",
+      "target": "自風北",
+      "value": 2
+    },
+    {
+      "source": "一盃口",
+      "target": "場風東",
+      "value": 8
+    },
+    {
+      "source": "一盃口",
+      "target": "場風南",
+      "value": 9
+    },
+    {
+      "source": "一盃口",
+      "target": "白",
+      "value": 9
+    },
+    {
+      "source": "一盃口",
+      "target": "發",
+      "value": 8
+    },
+    {
+      "source": "一盃口",
+      "target": "中",
+      "value": 14
+    },
+    {
+      "source": "一盃口",
+      "target": "チャンタ",
+      "value": 7
+    },
+    {
+      "source": "一盃口",
+      "target": "一気通貫",
+      "value": 4
+    },
+    {
+      "source": "一盃口",
+      "target": "三色同順",
+      "value": 26
+    },
+    {
+      "source": "一盃口",
+      "target": "純チャン",
+      "value": 7
+    },
+    {
+      "source": "一盃口",
+      "target": "ホンイツ",
+      "value": 17
+    },
+    {
+      "source": "一盃口",
+      "target": "チンイツ",
+      "value": 6
+    },
+    {
+      "source": "一盃口",
+      "target": "ドラ",
+      "value": 571
+    },
+    {
+      "source": "一盃口",
+      "target": "裏ドラ",
+      "value": 1323
+    },
+    {
+      "source": "一盃口",
+      "target": "赤ドラ",
+      "value": 843
+    },
+    {
+      "source": "自風東",
+      "target": "場風東",
+      "value": 154
+    },
+    {
+      "source": "自風東",
+      "target": "場風南",
+      "value": 1
+    },
+    {
+      "source": "自風東",
+      "target": "白",
+      "value": 31
+    },
+    {
+      "source": "自風東",
+      "target": "發",
+      "value": 23
+    },
+    {
+      "source": "自風東",
+      "target": "中",
+      "value": 28
+    },
+    {
+      "source": "自風東",
+      "target": "チャンタ",
+      "value": 2
+    },
+    {
+      "source": "自風東",
+      "target": "一気通貫",
+      "value": 2
+    },
+    {
+      "source": "自風東",
+      "target": "対々和",
+      "value": 4
+    },
+    {
+      "source": "自風東",
+      "target": "三暗刻",
+      "value": 6
+    },
+    {
+      "source": "自風東",
+      "target": "ホンイツ",
+      "value": 4
+    },
+    {
+      "source": "自風東",
+      "target": "ドラ",
+      "value": 377
+    },
+    {
+      "source": "自風東",
+      "target": "裏ドラ",
+      "value": 108
+    },
+    {
+      "source": "自風東",
+      "target": "赤ドラ",
+      "value": 354
+    },
+    {
+      "source": "自風東",
+      "target": "(喰)チャンタ",
+      "value": 9
+    },
+    {
+      "source": "自風東",
+      "target": "(喰)ホンイツ",
+      "value": 100
+    },
+    {
+      "source": "自風南",
+      "target": "場風東",
+      "value": 7
+    },
+    {
+      "source": "自風南",
+      "target": "場風南",
+      "value": 114
+    },
+    {
+      "source": "自風南",
+      "target": "白",
+      "value": 24
+    },
+    {
+      "source": "自風南",
+      "target": "發",
+      "value": 16
+    },
+    {
+      "source": "自風南",
+      "target": "中",
+      "value": 18
+    },
+    {
+      "source": "自風南",
+      "target": "チャンタ",
+      "value": 2
+    },
+    {
+      "source": "自風南",
+      "target": "一気通貫",
+      "value": 1
+    },
+    {
+      "source": "自風南",
+      "target": "三色同順",
+      "value": 1
+    },
+    {
+      "source": "自風南",
+      "target": "対々和",
+      "value": 4
+    },
+    {
+      "source": "自風南",
+      "target": "三暗刻",
+      "value": 3
+    },
+    {
+      "source": "自風南",
+      "target": "混老頭",
+      "value": 1
+    },
+    {
+      "source": "自風南",
+      "target": "ホンイツ",
+      "value": 6
+    },
+    {
+      "source": "自風南",
+      "target": "ドラ",
+      "value": 256
+    },
+    {
+      "source": "自風南",
+      "target": "裏ドラ",
+      "value": 112
+    },
+    {
+      "source": "自風南",
+      "target": "赤ドラ",
+      "value": 289
+    },
+    {
+      "source": "自風南",
+      "target": "(喰)チャンタ",
+      "value": 10
+    },
+    {
+      "source": "自風南",
+      "target": "(喰)ホンイツ",
+      "value": 72
+    },
+    {
+      "source": "自風西",
+      "target": "場風東",
+      "value": 3
+    },
+    {
+      "source": "自風西",
+      "target": "場風南",
+      "value": 1
+    },
+    {
+      "source": "自風西",
+      "target": "場風西",
+      "value": 3
+    },
+    {
+      "source": "自風西",
+      "target": "白",
+      "value": 6
+    },
+    {
+      "source": "自風西",
+      "target": "發",
+      "value": 8
+    },
+    {
+      "source": "自風西",
+      "target": "中",
+      "value": 12
+    },
+    {
+      "source": "自風西",
+      "target": "チャンタ",
+      "value": 1
+    },
+    {
+      "source": "自風西",
+      "target": "一気通貫",
+      "value": 1
+    },
+    {
+      "source": "自風西",
+      "target": "対々和",
+      "value": 3
+    },
+    {
+      "source": "自風西",
+      "target": "三暗刻",
+      "value": 4
+    },
+    {
+      "source": "自風西",
+      "target": "混老頭",
+      "value": 3
+    },
+    {
+      "source": "自風西",
+      "target": "ホンイツ",
+      "value": 5
+    },
+    {
+      "source": "自風西",
+      "target": "ドラ",
+      "value": 83
+    },
+    {
+      "source": "自風西",
+      "target": "裏ドラ",
+      "value": 96
+    },
+    {
+      "source": "自風西",
+      "target": "赤ドラ",
+      "value": 70
+    },
+    {
+      "source": "自風西",
+      "target": "(喰)チャンタ",
+      "value": 1
+    },
+    {
+      "source": "自風西",
+      "target": "(喰)ホンイツ",
+      "value": 31
+    },
+    {
+      "source": "自風北",
+      "target": "場風南",
+      "value": 4
+    },
+    {
+      "source": "自風北",
+      "target": "白",
+      "value": 12
+    },
+    {
+      "source": "自風北",
+      "target": "發",
+      "value": 3
+    },
+    {
+      "source": "自風北",
+      "target": "中",
+      "value": 11
+    },
+    {
+      "source": "自風北",
+      "target": "チャンタ",
+      "value": 2
+    },
+    {
+      "source": "自風北",
+      "target": "対々和",
+      "value": 10
+    },
+    {
+      "source": "自風北",
+      "target": "三暗刻",
+      "value": 5
+    },
+    {
+      "source": "自風北",
+      "target": "ホンイツ",
+      "value": 4
+    },
+    {
+      "source": "自風北",
+      "target": "ドラ",
+      "value": 76
+    },
+    {
+      "source": "自風北",
+      "target": "裏ドラ",
+      "value": 66
+    },
+    {
+      "source": "自風北",
+      "target": "赤ドラ",
+      "value": 56
+    },
+    {
+      "source": "自風北",
+      "target": "(喰)チャンタ",
+      "value": 5
+    },
+    {
+      "source": "自風北",
+      "target": "(喰)ホンイツ",
+      "value": 37
+    },
+    {
+      "source": "場風東",
+      "target": "白",
+      "value": 17
+    },
+    {
+      "source": "場風東",
+      "target": "發",
+      "value": 22
+    },
+    {
+      "source": "場風東",
+      "target": "中",
+      "value": 19
+    },
+    {
+      "source": "場風東",
+      "target": "チャンタ",
+      "value": 2
+    },
+    {
+      "source": "場風東",
+      "target": "対々和",
+      "value": 10
+    },
+    {
+      "source": "場風東",
+      "target": "三暗刻",
+      "value": 9
+    },
+    {
+      "source": "場風東",
+      "target": "混老頭",
+      "value": 1
+    },
+    {
+      "source": "場風東",
+      "target": "ホンイツ",
+      "value": 11
+    },
+    {
+      "source": "場風東",
+      "target": "ドラ",
+      "value": 152
+    },
+    {
+      "source": "場風東",
+      "target": "裏ドラ",
+      "value": 230
+    },
+    {
+      "source": "場風東",
+      "target": "赤ドラ",
+      "value": 165
+    },
+    {
+      "source": "場風東",
+      "target": "(喰)チャンタ",
+      "value": 8
+    },
+    {
+      "source": "場風東",
+      "target": "(喰)ホンイツ",
+      "value": 91
+    },
+    {
+      "source": "場風南",
+      "target": "白",
+      "value": 16
+    },
+    {
+      "source": "場風南",
+      "target": "發",
+      "value": 9
+    },
+    {
+      "source": "場風南",
+      "target": "中",
+      "value": 19
+    },
+    {
+      "source": "場風南",
+      "target": "チャンタ",
+      "value": 3
+    },
+    {
+      "source": "場風南",
+      "target": "一気通貫",
+      "value": 3
+    },
+    {
+      "source": "場風南",
+      "target": "三色同順",
+      "value": 1
+    },
+    {
+      "source": "場風南",
+      "target": "対々和",
+      "value": 11
+    },
+    {
+      "source": "場風南",
+      "target": "三暗刻",
+      "value": 6
+    },
+    {
+      "source": "場風南",
+      "target": "混老頭",
+      "value": 2
+    },
+    {
+      "source": "場風南",
+      "target": "ホンイツ",
+      "value": 9
+    },
+    {
+      "source": "場風南",
+      "target": "ドラ",
+      "value": 123
+    },
+    {
+      "source": "場風南",
+      "target": "裏ドラ",
+      "value": 130
+    },
+    {
+      "source": "場風南",
+      "target": "赤ドラ",
+      "value": 125
+    },
+    {
+      "source": "場風南",
+      "target": "(喰)チャンタ",
+      "value": 10
+    },
+    {
+      "source": "場風南",
+      "target": "(喰)ホンイツ",
+      "value": 71
+    },
+    {
+      "source": "場風西",
+      "target": "裏ドラ",
+      "value": 2
+    },
+    {
+      "source": "場風西",
+      "target": "赤ドラ",
+      "value": 1
+    },
+    {
+      "source": "白",
+      "target": "發",
+      "value": 40
+    },
+    {
+      "source": "白",
+      "target": "中",
+      "value": 53
+    },
+    {
+      "source": "白",
+      "target": "チャンタ",
+      "value": 6
+    },
+    {
+      "source": "白",
+      "target": "三色同順",
+      "value": 6
+    },
+    {
+      "source": "白",
+      "target": "対々和",
+      "value": 15
+    },
+    {
+      "source": "白",
+      "target": "三暗刻",
+      "value": 17
+    },
+    {
+      "source": "白",
+      "target": "小三元",
+      "value": 1
+    },
+    {
+      "source": "白",
+      "target": "混老頭",
+      "value": 1
+    },
+    {
+      "source": "白",
+      "target": "ホンイツ",
+      "value": 19
+    },
+    {
+      "source": "白",
+      "target": "ドラ",
+      "value": 365
+    },
+    {
+      "source": "白",
+      "target": "裏ドラ",
+      "value": 400
+    },
+    {
+      "source": "白",
+      "target": "赤ドラ",
+      "value": 312
+    },
+    {
+      "source": "白",
+      "target": "(喰)チャンタ",
+      "value": 16
+    },
+    {
+      "source": "白",
+      "target": "(喰)イッツー",
+      "value": 1
+    },
+    {
+      "source": "白",
+      "target": "(喰)ホンイツ",
+      "value": 192
+    },
+    {
+      "source": "發",
+      "target": "中",
+      "value": 40
+    },
+    {
+      "source": "發",
+      "target": "チャンタ",
+      "value": 4
+    },
+    {
+      "source": "發",
+      "target": "対々和",
+      "value": 15
+    },
+    {
+      "source": "發",
+      "target": "三暗刻",
+      "value": 9
+    },
+    {
+      "source": "發",
+      "target": "混老頭",
+      "value": 5
+    },
+    {
+      "source": "發",
+      "target": "ホンイツ",
+      "value": 20
+    },
+    {
+      "source": "發",
+      "target": "ドラ",
+      "value": 312
+    },
+    {
+      "source": "發",
+      "target": "裏ドラ",
+      "value": 373
+    },
+    {
+      "source": "發",
+      "target": "赤ドラ",
+      "value": 356
+    },
+    {
+      "source": "發",
+      "target": "(喰)チャンタ",
+      "value": 16
+    },
+    {
+      "source": "發",
+      "target": "(喰)三色",
+      "value": 1
+    },
+    {
+      "source": "發",
+      "target": "(喰)ホンイツ",
+      "value": 166
+    },
+    {
+      "source": "中",
+      "target": "チャンタ",
+      "value": 4
+    },
+    {
+      "source": "中",
+      "target": "一気通貫",
+      "value": 1
+    },
+    {
+      "source": "中",
+      "target": "三色同順",
+      "value": 1
+    },
+    {
+      "source": "中",
+      "target": "三色同刻",
+      "value": 1
+    },
+    {
+      "source": "中",
+      "target": "対々和",
+      "value": 25
+    },
+    {
+      "source": "中",
+      "target": "三暗刻",
+      "value": 19
+    },
+    {
+      "source": "中",
+      "target": "小三元",
+      "value": 1
+    },
+    {
+      "source": "中",
+      "target": "混老頭",
+      "value": 9
+    },
+    {
+      "source": "中",
+      "target": "ホンイツ",
+      "value": 15
+    },
+    {
+      "source": "中",
+      "target": "ドラ",
+      "value": 337
+    },
+    {
+      "source": "中",
+      "target": "裏ドラ",
+      "value": 364
+    },
+    {
+      "source": "中",
+      "target": "赤ドラ",
+      "value": 346
+    },
+    {
+      "source": "中",
+      "target": "(喰)チャンタ",
+      "value": 19
+    },
+    {
+      "source": "中",
+      "target": "(喰)三色",
+      "value": 1
+    },
+    {
+      "source": "中",
+      "target": "(喰)ホンイツ",
+      "value": 188
+    },
+    {
+      "source": "七対子",
+      "target": "ホンイツ",
+      "value": 17
+    },
+    {
+      "source": "七対子",
+      "target": "ドラ",
+      "value": 341
+    },
+    {
+      "source": "七対子",
+      "target": "裏ドラ",
+      "value": 971
+    },
+    {
+      "source": "七対子",
+      "target": "赤ドラ",
+      "value": 377
+    },
+    {
+      "source": "チャンタ",
+      "target": "三色同順",
+      "value": 21
+    },
+    {
+      "source": "チャンタ",
+      "target": "三暗刻",
+      "value": 1
+    },
+    {
+      "source": "チャンタ",
+      "target": "ホンイツ",
+      "value": 2
+    },
+    {
+      "source": "チャンタ",
+      "target": "ドラ",
+      "value": 33
+    },
+    {
+      "source": "チャンタ",
+      "target": "裏ドラ",
+      "value": 53
+    },
+    {
+      "source": "一気通貫",
+      "target": "ホンイツ",
+      "value": 7
+    },
+    {
+      "source": "一気通貫",
+      "target": "チンイツ",
+      "value": 1
+    },
+    {
+      "source": "一気通貫",
+      "target": "ドラ",
+      "value": 137
+    },
+    {
+      "source": "一気通貫",
+      "target": "裏ドラ",
+      "value": 286
+    },
+    {
+      "source": "一気通貫",
+      "target": "赤ドラ",
+      "value": 161
+    },
+    {
+      "source": "三色同順",
+      "target": "純チャン",
+      "value": 14
+    },
+    {
+      "source": "三色同順",
+      "target": "ドラ",
+      "value": 382
+    },
+    {
+      "source": "三色同順",
+      "target": "裏ドラ",
+      "value": 661
+    },
+    {
+      "source": "三色同順",
+      "target": "赤ドラ",
+      "value": 345
+    },
+    {
+      "source": "三色同刻",
+      "target": "対々和",
+      "value": 1
+    },
+    {
+      "source": "三色同刻",
+      "target": "ドラ",
+      "value": 2
+    },
+    {
+      "source": "三色同刻",
+      "target": "(喰)純チャン",
+      "value": 1
+    },
+    {
+      "source": "対々和",
+      "target": "三暗刻",
+      "value": 21
+    },
+    {
+      "source": "対々和",
+      "target": "混老頭",
+      "value": 2
+    },
+    {
+      "source": "対々和",
+      "target": "ホンイツ",
+      "value": 3
+    },
+    {
+      "source": "対々和",
+      "target": "(喰)チンイツ",
+      "value": 2
+    },
+    {
+      "source": "対々和",
+      "target": "ドラ",
+      "value": 48
+    },
+    {
+      "source": "対々和",
+      "target": "裏ドラ",
+      "value": 17
+    },
+    {
+      "source": "対々和",
+      "target": "赤ドラ",
+      "value": 49
+    },
+    {
+      "source": "対々和",
+      "target": "(喰)ホンイツ",
+      "value": 16
+    },
+    {
+      "source": "三暗刻",
+      "target": "ホンイツ",
+      "value": 7
+    },
+    {
+      "source": "三暗刻",
+      "target": "ドラ",
+      "value": 61
+    },
+    {
+      "source": "三暗刻",
+      "target": "裏ドラ",
+      "value": 164
+    },
+    {
+      "source": "三暗刻",
+      "target": "赤ドラ",
+      "value": 74
+    },
+    {
+      "source": "小三元",
+      "target": "ドラ",
+      "value": 1
+    },
+    {
+      "source": "小三元",
+      "target": "赤ドラ",
+      "value": 1
+    },
+    {
+      "source": "小三元",
+      "target": "(喰)ホンイツ",
+      "value": 1
+    },
+    {
+      "source": "混老頭",
+      "target": "ドラ",
+      "value": 3
+    },
+    {
+      "source": "混老頭",
+      "target": "(喰)ホンイツ",
+      "value": 5
+    },
+    {
+      "source": "二盃口",
+      "target": "ドラ",
+      "value": 3
+    },
+    {
+      "source": "二盃口",
+      "target": "裏ドラ",
+      "value": 12
+    },
+    {
+      "source": "二盃口",
+      "target": "赤ドラ",
+      "value": 14
+    },
+    {
+      "source": "純チャン",
+      "target": "ドラ",
+      "value": 19
+    },
+    {
+      "source": "純チャン",
+      "target": "裏ドラ",
+      "value": 20
+    },
+    {
+      "source": "ホンイツ",
+      "target": "ドラ",
+      "value": 46
+    },
+    {
+      "source": "ホンイツ",
+      "target": "裏ドラ",
+      "value": 75
+    },
+    {
+      "source": "ホンイツ",
+      "target": "赤ドラ",
+      "value": 50
+    },
+    {
+      "source": "チンイツ",
+      "target": "ドラ",
+      "value": 7
+    },
+    {
+      "source": "チンイツ",
+      "target": "裏ドラ",
+      "value": 1
+    },
+    {
+      "source": "チンイツ",
+      "target": "赤ドラ",
+      "value": 5
+    },
+    {
+      "source": "(喰)チンイツ",
+      "target": "ドラ",
+      "value": 5
+    },
+    {
+      "source": "(喰)チンイツ",
+      "target": "赤ドラ",
+      "value": 8
+    },
+    {
+      "source": "ドラ",
+      "target": "裏ドラ",
+      "value": 9514
+    },
+    {
+      "source": "ドラ",
+      "target": "赤ドラ",
+      "value": 10188
+    },
+    {
+      "source": "ドラ",
+      "target": "(喰)チャンタ",
+      "value": 119
+    },
+    {
+      "source": "ドラ",
+      "target": "(喰)イッツー",
+      "value": 1
+    },
+    {
+      "source": "ドラ",
+      "target": "(喰)三色",
+      "value": 7
+    },
+    {
+      "source": "ドラ",
+      "target": "(喰)純チャン",
+      "value": 19
+    },
+    {
+      "source": "ドラ",
+      "target": "(喰)ホンイツ",
+      "value": 465
+    },
+    {
+      "source": "裏ドラ",
+      "target": "赤ドラ",
+      "value": 10878
+    },
+    {
+      "source": "赤ドラ",
+      "target": "(喰)イッツー",
+      "value": 2
+    },
+    {
+      "source": "赤ドラ",
+      "target": "(喰)三色",
+      "value": 4
+    },
+    {
+      "source": "赤ドラ",
+      "target": "(喰)ホンイツ",
+      "value": 495
+    },
+    {
+      "source": "(喰)チャンタ",
+      "target": "(喰)三色",
+      "value": 1
+    },
+    {
+      "source": "(喰)チャンタ",
+      "target": "(喰)ホンイツ",
+      "value": 56
+    },
+    {
+      "source": "(喰)イッツー",
+      "target": "(喰)ホンイツ",
+      "value": 2
+    }
+  ]
+}
