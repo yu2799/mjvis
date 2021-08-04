@@ -18,6 +18,9 @@ const Form = (props) => {
   function nodeSizeChange(event) {
     props.setNodeSize(event.target.value);
   }
+  function strengthChange(event) {
+    props.setStrength(event.target.value);
+  }
 
   return (
     <div>
@@ -49,7 +52,7 @@ const Form = (props) => {
           <option value="60">60</option>
         </select>
       </div>
-      {/* <div>
+      <div>
         出現回数
         <select
           style={select}
@@ -62,7 +65,7 @@ const Form = (props) => {
           <option value="100">100</option>
           <option value="1000">1000</option>
         </select>
-      </div> */}
+      </div>
       <div>
         線の長さ
         <select
@@ -76,6 +79,19 @@ const Form = (props) => {
           <option value="600">600</option>
         </select>
       </div>
+      <div>
+        ノードの引き合う力
+        <select
+          style={select}
+          size="1"
+          defaultValue="-800"
+          onChange={strengthChange}
+        >
+          <option value="-800">-800</option>
+          <option value="-600">-600</option>
+          <option value="-400">-400</option>
+        </select>
+      </div>
     </div>
   );
 };
@@ -86,9 +102,9 @@ const Home = () => {
   const [nodeCount, setNodeCount] = useState(1);
   const [linkCount, setLinkCount] = useState(1);
   const [linkLength, setLinkLength] = useState(400);
-  const [nodeSize, setNodeSize] = useState(45);
+  const [nodeSize, setNodeSize] = useState(40);
+  const [strength, setStrength] = useState(-800);
 
-  // console.log(linkCount);
   useEffect(() => {
     const startSimulation = (nodes, links) => {
       const simulation = d3
@@ -110,15 +126,13 @@ const Home = () => {
             .id((d) => d.id)
             .iterations(1)
         ) //stength:linkの強さ（元に戻る力 distance: linkの長さ iterations: 計算回数 default=1
-        .force("charge", d3.forceManyBody().strength(-700)) // 引き合う力を設定
+        .force("charge", d3.forceManyBody().strength(strength)) // 引き合う力を設定
         .force("x", d3.forceX().x(svgWidth / 2))
         .force("y", d3.forceY().y(svgHeight / 2))
         .force("center", d3.forceCenter(svgWidth / 2, svgHeight / 2)); // 描画するときの中心を設定
 
       // forceSimulationの影響下にnodesを置く
       simulation.nodes(nodes).on("tick", ticked);
-
-      console.log(links);
       simulation.force("link").links(links);
 
       // 呼び出して新しい座標をsetStateする
@@ -154,12 +168,26 @@ const Home = () => {
             });
           }
         }
-        for (const item of data.links) {
-          if (item.value >= linkCount) {
+        for (const link of data.links) {
+          let isSource = false;
+          let isTarget = false;
+          for (const node of nodes) {
+            if (node.id === link.source) {
+              isSource = true;
+            }
+            if (node.id === link.target) {
+              isTarget = true;
+            }
+            if (isSource && isTarget) {
+              break;
+            }
+          }
+
+          if (isSource && isTarget && link.value >= linkCount) {
             links.push({
-              source: item.source,
-              target: item.target,
-              value: item.value,
+              source: link.source,
+              target: link.target,
+              value: link.value,
             });
           }
         }
@@ -168,7 +196,7 @@ const Home = () => {
       startSimulation(nodes, links);
     };
     startLineChart();
-  }, [nodeCount, linkCount, linkLength]);
+  }, [nodeCount, linkCount, linkLength, nodeSize, strength]);
   const margin = {
     top: 10,
     bottom: 10,
@@ -187,6 +215,8 @@ const Home = () => {
         setLinkCount={setLinkCount}
         setNodeCount={setNodeCount}
         setLinkLength={setLinkLength}
+        setNodeSize={setNodeSize}
+        setStrength={setStrength}
       />
       <svg
         viewBox={`${-margin.left} ${-margin.top} ${svgWidth} ${svgHeight}`}
