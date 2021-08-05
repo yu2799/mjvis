@@ -71,6 +71,8 @@ const FormSet = (props) => {
                   <option value="10">10</option>
                   <option value="100">100</option>
                   <option value="1000">1000</option>
+                  <option value="2000">2000</option>
+                  <option value="3000">3000</option>
                 </select>
               </div>
             </div>
@@ -94,6 +96,8 @@ const FormSet = (props) => {
                     <option value="10">10</option>
                     <option value="100">100</option>
                     <option value="1000">1000</option>
+                    <option value="2000">2000</option>
+                    <option value="2000">3000</option>
                   </select>
                 </div>
               </div>
@@ -141,6 +145,7 @@ const FormSet = (props) => {
                   <option value="-800">1</option>
                   <option value="-600">2</option>
                   <option value="-400">3</option>
+                  <option value="-200">4</option>
                 </select>
               </div>
             </div>
@@ -290,6 +295,13 @@ const Home = () => {
     });
   };
 
+  // useEffect(() => {
+  //   effect;
+  //   return () => {
+  //     cleanup;
+  //   };
+  // }, [nodes]);
+
   const size =
     window.innerWidth < window.innerWidth
       ? window.innerHeight
@@ -297,6 +309,8 @@ const Home = () => {
   // const svgWidth = margin.left + margin.right + contentWidth;
   // const svgHeight = margin.bottom + margin.top + contentHeight;
   const colorScale = d3.interpolateBlues;
+
+  // console.log(selected);
 
   return (
     <div>
