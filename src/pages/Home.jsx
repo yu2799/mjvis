@@ -55,7 +55,7 @@ const FormSet = (props) => {
     <div>
       <div className="filed is-horizontal">
         <div className="filed-label is-normal">
-          <label class="label">共起回数</label>
+          <label className="label">共起回数</label>
         </div>
         <div className="filed-body">
           <div className="field is-narrow">
@@ -78,7 +78,7 @@ const FormSet = (props) => {
         </div>
         <div className="filed is-horizontal">
           <div className="filed-label is-normal">
-            <label class="label">出現回数</label>
+            <label className="label">出現回数</label>
           </div>
           <div className="filed-body">
             <div className="field is-narrow">
@@ -103,7 +103,7 @@ const FormSet = (props) => {
       </div>
       <div className="filed is-horizontal">
         <div className="filed-label is-normal">
-          <label class="label">線の長さ</label>
+          <label className="label">線の長さ</label>
         </div>
         <div className="filed-body">
           <div className="field is-narrow">
@@ -126,7 +126,7 @@ const FormSet = (props) => {
       </div>
       <div className="filed is-horizontal">
         <div className="filed-label is-normal">
-          <label class="label"> ノードの引き合う力</label>
+          <label className="label"> ノードの引き合う力</label>
         </div>
         <div className="filed-body">
           <div className="field is-narrow">
@@ -149,7 +149,7 @@ const FormSet = (props) => {
       </div>
       <div className="filed is-horizontal">
         <div className="filed-label is-normal">
-          <label class="label">ノードの大きさ</label>
+          <label className="label">ノードの大きさ</label>
         </div>
         <div className="filed-body">
           <div className="field is-narrow">
@@ -185,6 +185,7 @@ const Home = () => {
   const [strength, setStrength] = useState(-800);
   const [min, setMin] = useState(0);
   const [max, setMax] = useState(1);
+  const [selected, setSelected] = useState([]);
 
   useEffect(() => {
     const startSimulation = (nodes, links) => {
@@ -274,6 +275,21 @@ const Home = () => {
     startLineChart();
   }, [nodeCount, linkCount, linkLength, nodeSize, strength]);
 
+  const handleSelect = (node) => {
+    const nodeId = node.id;
+    console.log(nodeId);
+    setSelected((prev) => {
+      const index = prev.indexOf(nodeId);
+      const selectedNodeIds = [...prev];
+      if (index < 0) {
+        selectedNodeIds.push(nodeId);
+      } else {
+        selectedNodeIds.splice(index, 1);
+      }
+      return selectedNodeIds;
+    });
+  };
+
   const size =
     window.innerWidth < window.innerWidth
       ? window.innerHeight
@@ -282,7 +298,6 @@ const Home = () => {
   // const svgHeight = margin.bottom + margin.top + contentHeight;
   const colorScale = d3.interpolateBlues;
 
-  //  const colorScale = d3.scaleOrdinal().range(d3.schemePaired); // group振ったら設定
   return (
     <div>
       <Header />
@@ -298,7 +313,6 @@ const Home = () => {
                 setStrength={setStrength}
               ></FormSet>
             </div>
-            <div className="box">a</div>
           </div>
           <div className="column">
             <ZoomableSVG width={size} height={size}>
@@ -312,7 +326,15 @@ const Home = () => {
                     return (
                       <line
                         key={link.source.id + "-" + link.target.id}
-                        stroke="black"
+                        stroke={
+                          selected && selected.length === 0
+                            ? "black"
+                            : selected.includes(link.source.id) ||
+                              selected.includes(link.target.id)
+                            ? "black"
+                            : "#f5f5f5"
+                        }
+                        // stroke={"black"}
                         strokeWidth="1"
                         className="link"
                         x1={link.source.x}
@@ -332,9 +354,16 @@ const Home = () => {
                         <circle
                           r={node.r}
                           stroke="black"
-                          fill={colorScale(normalizedValue)}
+                          fill={
+                            selected && selected.length === 0
+                              ? colorScale(normalizedValue)
+                              : selected.includes(node.id)
+                              ? "#FF6600"
+                              : colorScale(normalizedValue)
+                          }
                           cx={node.x}
                           cy={node.y}
+                          onClick={() => handleSelect(node)}
                         ></circle>
                         <text
                           className="node-label"
@@ -342,6 +371,7 @@ const Home = () => {
                           stroke="black"
                           fill="white"
                           fontSize={"20px"}
+                          onClick={() => handleSelect(node)}
                           x={node.x}
                           y={node.y}
                         >
