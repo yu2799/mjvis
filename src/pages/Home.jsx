@@ -272,6 +272,17 @@ const Home = () => {
         }
         setMin(nodes.reduce((a, b) => (a.value < b.value ? a : b)).value);
         setMax(nodes.reduce((a, b) => (a.value > b.value ? a : b)).value);
+
+        const tmp = [];
+        for (const node of nodes) {
+          for (const select of selected) {
+            if (node.id === select) {
+              tmp.push(select);
+              break;
+            }
+          }
+        }
+        setSelected(tmp);
         return [nodes, links];
       })();
       startSimulation(nodes, links);
@@ -295,13 +306,6 @@ const Home = () => {
     });
   };
 
-  // useEffect(() => {
-  //   effect;
-  //   return () => {
-  //     cleanup;
-  //   };
-  // }, [nodes]);
-
   const size =
     window.innerWidth < window.innerWidth
       ? window.innerHeight
@@ -310,8 +314,8 @@ const Home = () => {
   // const svgHeight = margin.bottom + margin.top + contentHeight;
   const colorScale = d3.interpolateBlues;
 
-  // console.log(selected);
-
+  console.log(selected);
+  // console.log(nodes);
   return (
     <div>
       <Header />
